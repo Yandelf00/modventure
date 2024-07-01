@@ -47,3 +47,15 @@ npm i -D drizzle-kit
 : 1719798197:0;npm i env-var
 : 1719798203:0;n database/db.server.ts
 : 1719798221:0;npm i pg
+: 1719798262:0;ls
+: 1719798267:0;z database
+: 1719798269:0;ls
+: 1719798274:15;n migrate.ts
+: 1719798292:0;ls
+: 1719798298:8;n db.server.ts
+: 1719798329:0;git checkout db-branch
+: 1719798360:0;ls -la
+: 1719798403:0;..
+: 1719798404:0;ls
+: 1719798407:0;ls -la
+: 1719798419:0;n .gitignore
