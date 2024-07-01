@@ -5,6 +5,7 @@ import { useCities } from '@/hooks/useCities'
 
 export default function Navbar() {
     const setMain = useCities((state)=>state.setMain)
+    const setRes = useCities((state)=>state.setRes)
   return (
     <nav className='h-[60px] w-[99%] flex flex-row justify-between items-center '>
         <Image alt='logo' src={logo} height={80} width={80} /> 
@@ -13,7 +14,7 @@ export default function Navbar() {
                 <a onClick={setMain} className='hover:text-orange cursor-pointer '>Home</a>
             </li>
             <li>
-                <a className='hover:text-orange cursor-pointer '>R&H</a>
+                <a onClick={setRes} className='hover:text-orange cursor-pointer '>R&H</a>
             </li>
             <li>
                 <a className='hover:text-orange cursor-pointer '>Prices</a>

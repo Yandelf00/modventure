@@ -8,6 +8,7 @@ import Sections from "@/components/Sections";
 import Marrakech from "@/components/Marrakech";
 import Chefchaoune from "@/components/Chefchaoune";
 import Ouarzazate from "@/components/Ouarzazate";
+import RestauHotels from "@/components/RestauHotels";
 import { useCities } from "@/hooks/useCities";
 
 
@@ -27,6 +28,7 @@ export default function Home() {
           {city === 1 ? (<Marrakech/>):(<></>)}
           {city === 2 ? (<Chefchaoune/>):(<></>)}
           {city === 3 ? (<Ouarzazate/>):(<></>)} 
+          {city === 4 ? (<RestauHotels/>):(<></>)}
         </div> 
         <div className="h-full w-[25%] flex flex-row">
           <Search/>
