@@ -1,0 +1,43 @@
+: 1719796384:0;z sat
+: 1719796342:0;ls
+: 1719796345:0;ls database
+: 1719796349:0;ls database/data
+: 1719796353:0;ls database/data/db
+: 1719796355:0;ls
+: 1719797220:0;npm i drizzle-orm postgres\
+npm i -D drizzle-kit
+: 1719797295:0;ls
+: 1719797302:0;n package.json
+: 1719797458:0;npm i drizzle-orm postgres\
+
+: 1719797475:0;ls
+: 1719797481:0;z database
+: 1719797481:0;ls
+: 1719797485:0;rm data
+: 1719797488:0;ls
+: 1719797498:1;npm i drizzle-orm
+: 1719797530:1;npm i
+: 1719797534:23;npm i drizzle-orm
+: 1719797650:2;npm install drizzle-orm --legacy-peer-deps\
+
+: 1719797703:0;cp -r ../../SATm/shared/database .
+: 1719797704:0;ls
+: 1719797712:0;ls database
+: 1719797726:0;rm database
+: 1719797731:0;cp -r ../../SATm/shared/database db
+: 1719797733:0;ls
+: 1719797735:0;ls db
+: 1719797742:0;rm db
+: 1719797750:0;cp -r ../../SATm/shared/database/* .
+: 1719797752:0;ls
+: 1719797755:0;..
+: 1719797758:0;ls
+: 1719797808:0;cp ../SATm/shared/drizzle.config.ts  .
+: 1719797809:0;ls
+: 1719797817:0;ls database
+: 1719797845:0;n package.json
+: 1719797942:0;ls
+: 1719797962:0;git checkout db-branch
+: 1719797979:0;n package.json
+: 1719798007:0;ls
+: 1719798009:0;ls database
