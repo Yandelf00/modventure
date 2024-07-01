@@ -7,7 +7,7 @@ import third from '@/assets/third.png'
 
 export default function Sections() {
   return (
-    <div className='h-full w-[90%] bg-fadDarkBlue flex flex-col px-5 justify-between xl:pb-0 pb-10 xl:overflow-scroll'>
+    <div className='h-full w-[90%] bg-fadDarkBlue flex flex-col px-5 xl:pb-0 pb-10 xl:overflow-scroll'>
         <div className='flex flex-col'>
             <div className='flex flex-row justify-between items-center mt-2'>
                 <h2 className='text-white xl:text-[15px] text-[20px]'>Sections</h2>
@@ -25,17 +25,17 @@ export default function Sections() {
             <div className='mt-3 text-white xl:text-[15px] text-[17px]'>Explore the hidden gems of Morocco, from the buslting souks of Marrakech to the serene sands of Sahara</div>
             <div className='w-full h-1 bg-white rounded-full opacity-30 mt-2'></div>
         </div>
-        <div className='mt-3 w-full flex flex-col items-center '>
-            <Image src={marrakech} alt='marrakech' height={100} className='rounded-md' />
-            <div className='mt-3 text-white xl:w-full w-[70%] text-[13px] '>Marrakech : The vibrant heart of Morocco, famous for its lively markets and historic sites.</div>
+        <div className='mt-16 w-full flex flex-col items-center '>
+            <Image src={marrakech} alt='marrakech' height={170} className='rounded-md cursor-pointer' />
+            <div className='mt-3 text-white w-full text-center text-[13px] '>Marrakech : The vibrant heart of Morocco</div>
         </div>
         <div className='mt-3 w-full flex flex-col items-center '>
-            <Image src={second} alt='second' height={100} className='rounded-md ' />
-            <div className='mt-3 text-white xl:w-full w-[70%] text-[13px] '>Marrakech : The vibrant heart of Morocco, famous for its lively markets and historic sites.</div>
+            <Image src={second} alt='second' height={170} className='rounded-md cursor-pointer' />
+            <div className='mt-3 text-white w-full text-center text-[13px] '>Marrakech : The vibrant heart of Morocco</div>
         </div>
         <div className='mt-3 w-full flex flex-col items-center '>
-            <Image src={third} alt='third' height={100} className='rounded-md' />
-            <div className='mt-3 text-white xl:w-full w-[70%] text-[13px] '>Marrakech : The vibrant heart of Morocco, famous for its lively markets and historic sites.</div>
+            <Image src={third} alt='third' height={170} className='rounded-md cursor-pointer' />
+            <div className='mt-3 text-white w-full text-center text-[13px] '>Marrakech : The vibrant heart of Morocco</div>
         </div>
     </div>
   )
