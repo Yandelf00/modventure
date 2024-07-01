@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "nodeNext",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "outDir": "dist",
+    "sourceMap": true,
+    "paths": {
+      "@M/*": [ "database/models/*" ]
+    },
+  },
+  "include": ["database/**/*"],
+}

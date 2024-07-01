@@ -1,0 +1,26 @@
+ls
+n src/
+npm i
+npm i -g npm@10.8.1
+ls
+n src/app/page.tsx
+npm run dev
+ls
+qLS
+LS
+ls
+npm run dev
+l
+ls
+n src/app/page.tsx
+ls
+n src/app/layout.tsx
+okular
+nix-shell -p kdePackages.okula
+nix-shell -p kdePackages.okular
+ls
+cp -r ../SATm/api .
+cp -r ../SATm/shared .
+exit
+: 1719792378:0;mv shared database
+: 1719792394:0;gall 'adding database and express setup'

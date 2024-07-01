@@ -1,0 +1,39 @@
+z shared
+ls
+n tsconfig.json
+n src/app.ts
+ls
+cscs
+exit
+btop
+exit
+: 1719103329:0;ls
+: 1719103335:0;git checkout main
+: 1719109103:0;z nix
+: 1719109423:0;ls
+: 1719109874:0;z shared
+: 1719115552:0;mark api
+: 1719116930:0;mark api
+: 1719153346:0;ls
+: 1719153455:0;z nix
+: 1719361158:0;ls
+: 1719361164:0;z nixos
+: 1719361165:0;ls
+: 1719361170:20;n home-manager.nix
+: 1719361194:1;nix-shell -p vi
+: 1719361213:7;nix-shell -p vim
+: 1719361313:813;fg
+: 1719362137:0;ls
+: 1719362139:0;z -
+: 1719362164:0;duf
+: 1719362189:0;nix-shell -p surrealdb
+: 1719362241:0;export NIXOS_ALLOW_UNFREE=1 && nix-shell -p surrealdb
+: 1719362247:0;export NIXOS_ALLOW_UNFREE=1
+: 1719362248:0;nix-shell -p surrealdb
+: 1719362603:0;ls
+: 1719363092:0;duf
+: 1719363394:0;pwd
+: 1719363399:0;z projects
+: 1719512138:0;ls
+: 1719512145:0;n src/app.ts
+: 1719512192:0;z nvi
