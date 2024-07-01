@@ -7,7 +7,7 @@ import third from '@/assets/third.png'
 
 export default function Sections() {
   return (
-    <div className='h-full w-[90%] bg-fadDarkBlue flex flex-col px-5 xl:pb-0 pb-10 overflow-x-hidden overflow-scroll'>
+    <div className='h-full w-[90%] bg-fadDarkBlue flex flex-col px-5 xl:pb-0 pb-10 overflow-x-hidden scrollbar-thin scrollbar-none  overflow-scroll '>
         <div className='flex flex-col'>
             <div className='flex flex-row justify-between items-center mt-2'>
                 <h2 className='text-white xl:text-[15px] text-[20px]'>Sections</h2>

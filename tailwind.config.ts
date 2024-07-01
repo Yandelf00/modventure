@@ -40,6 +40,6 @@ const config: Config = {
       // => @media (max-width: 639px) { ... }
     },
   },
-  plugins: [],
+  plugins: [require('tailwind-scrollbar'),],
 };
 export default config;
