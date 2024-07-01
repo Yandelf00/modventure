@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-
     "db:generate": "npx drizzle-kit generate",
     "db:push": "npx drizzle-kit push",
     "db:studio": "npx drizzle-kit studio",
@@ -15,7 +14,9 @@
   },
   "dependencies": {
     "drizzle-orm": "^0.31.2",
+    "env-var": "^7.5.0",
     "next": "14.2.4",
+    "pg": "^8.12.0",
     "react": "^18",
     "react-dom": "^18",
     "zustand": "^4.5.4"

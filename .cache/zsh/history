@@ -41,3 +41,9 @@ npm i -D drizzle-kit
 : 1719797979:0;n package.json
 : 1719798007:0;ls
 : 1719798009:0;ls database
+: 1719798058:0;ls
+: 1719798063:0;n package.json
+: 1719798121:0;n database/db.server.ts
+: 1719798197:0;npm i env-var
+: 1719798203:0;n database/db.server.ts
+: 1719798221:0;npm i pg
