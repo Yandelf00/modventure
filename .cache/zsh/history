@@ -59,3 +59,77 @@ npm i -D drizzle-kit
 : 1719798404:0;ls
 : 1719798407:0;ls -la
 : 1719798419:0;n .gitignore
+: 1719798472:0;ls
+: 1719798516:0;git merge main 
+: 1719798556:0;ls
+: 1719798558:0;z database
+: 1719798616:0;z sat
+: 1719799348:0;ls
+: 1719799431:0;cat database/models/users/userModel.ts
+: 1719799439:0;cat database/models/users/usersTable.ts
+: 1719799449:0;cat database/models/users/userModel.ts
+: 1719799486:0;z shared
+: 1719798559:0;ls
+: 1719798562:8;n db.server.ts
+: 1719798574:2;npm i pg
+: 1719798584:2;npm i postgres
+: 1719798589:0;fg
+: 1719798592:9;n db.server.ts
+: 1719798652:5;npm i -D @types/pg
+: 1719798660:0;fg
+: 1719798663:16;n db.server.ts
+: 1719798723:92;btop
+: 1719798817:0;LS
+: 1719798819:0;ls
+: 1719798822:101;n db.server.ts
+: 1719798961:0;ls
+: 1719798963:196;fg
+: 1719799160:0;ls
+: 1719799164:0;ls models
+: 1719799209:0;mk users
+: 1719799216:0;ls
+: 1719799223:0;mv users models
+: 1719799226:0;z models
+: 1719799228:0;ls
+: 1719799234:0;mv * users
+: 1719799236:0;ls
+: 1719799242:0;..
+: 1719799243:0;ls
+: 1719799245:34;n db.server.ts
+: 1719799282:0;z models
+: 1719799283:0;ls
+: 1719799322:0;mk sessions cities hotels restaurants attractions
+: 1719799323:0;ms
+: 1719799326:0;ls
+: 1719799332:0;z sessions
+: 1719799386:0;tch sessionsTable sessionModel
+: 1719799387:0;ls
+: 1719799395:1;rm *
+: 1719799410:0;tch sessionsTable.ts sessionModel.ts
+: 1719799412:0;ls
+: 1719799420:94;n sessionModel.ts sessionsTable.ts
+: 1719799545:0;ls
+: 1719799577:0;mv sessionModel.ts ../
+: 1719799579:0;..
+: 1719799580:0;ls
+: 1719799594:0;mv users/userModel.ts .
+: 1719799595:0;l
+: 1719799607:0;rm attractions
+: 1719799610:0;rm hotels
+: 1719799613:0;rm cities
+: 1719799617:0;rm sessions
+: 1719799623:0;rm users
+: 1719799625:0;ls
+: 1719799629:0;rm restaurants
+: 1719799633:0;ls
+: 1719799719:0;tch restaurantModel.ts hotelModel.ts attractionModel.ts cityModel.ts att_comment.ts hot_comment.ts res_comment.ts
+: 1719799720:0;ls
+: 1719799724:819;n sessionModel.ts
+: 1719800558:44;n *_comment.ts
+: 1719800613:536;fg
+: 1719801151:0;ls
+: 1719801256:85;n sessionModel.ts
+: 1719801348:1489;n *.ts
+: 1719802847:0;../../
+: 1719802849:0;ls
+: 1719802868:0;n database/schema.ts
