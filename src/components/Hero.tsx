@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Hero() {
   return (
-    <div className='xl:max-w-[700px] max-w-[900px] h-[400px] flex flex-col  mt-[150px] justify-center'>
+    <div className='xl:max-w-[700px] max-w-[900px] h-[400px] flex flex-col  mt-[150px] justify-center  '>
         <h1 className='text-white font-bold xl:text-[50px] text-[70px]'>Discover Morocco During</h1>
         <h1 className='text-white font-bold xl:text-[50px] text-[70px]'>The 2030 Word Cup</h1>
         <h2 className='text-white xl:text-[20px] text-[30px] mt-5'>The ultimate guide for an</h2>

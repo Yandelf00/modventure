@@ -4,8 +4,12 @@ import logo from '@/assets/logo.png'
 import marrakech from '@/assets/marrakech.png'
 import second from '@/assets/second.png'
 import third from '@/assets/third.png' 
+import { useCities } from '@/hooks/useCities'
 
 export default function Sections() {
+    const setMarra = useCities((state)=>state.setMarra)
+    const setChef = useCities((state)=>state.setChef)
+    const setOua = useCities((state)=>state.setOua)
   return (
     <div className='h-full w-[90%] bg-fadDarkBlue flex flex-col px-5 xl:pb-0 pb-10 overflow-x-hidden scrollbar-thin scrollbar-none  overflow-scroll '>
         <div className='flex flex-col'>
@@ -26,16 +30,16 @@ export default function Sections() {
             <div className='w-full h-1 bg-white rounded-full opacity-30 mt-2'></div>
         </div>
         <div className='mt-16 w-full flex flex-col items-center '>
-            <Image src={marrakech} alt='marrakech' height={170} className='rounded-md cursor-pointer' />
+            <Image src={marrakech} onClick={setMarra} alt='marrakech' height={170} className='rounded-md cursor-pointer' />
             <div className='mt-3 text-white w-full text-center text-[13px] '>Marrakech : The vibrant heart of Morocco</div>
         </div>
         <div className='mt-3 w-full flex flex-col items-center '>
             <Image src={second} alt='second' height={170} className='rounded-md cursor-pointer' />
-            <div className='mt-3 text-white w-full text-center text-[13px] '>Marrakech : The vibrant heart of Morocco</div>
+            <div className='mt-3 text-white w-full text-center text-[13px] '>Chefchaoune : The blue city of Morocco</div>
         </div>
         <div className='mt-3 w-full flex flex-col items-center '>
             <Image src={third} alt='third' height={170} className='rounded-md cursor-pointer' />
-            <div className='mt-3 text-white w-full text-center text-[13px] '>Marrakech : The vibrant heart of Morocco</div>
+            <div className='mt-3 text-white w-full text-center text-[13px] '>Ouarzazate : The Hollywood of Africa</div>
         </div>
     </div>
   )
