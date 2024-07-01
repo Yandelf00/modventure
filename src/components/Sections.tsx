@@ -7,6 +7,7 @@ import third from '@/assets/third.png'
 import { useCities } from '@/hooks/useCities'
 
 export default function Sections() {
+    const city = useCities((state)=>state.city)
     const setMarra = useCities((state)=>state.setMarra)
     const setChef = useCities((state)=>state.setChef)
     const setOua = useCities((state)=>state.setOua)
@@ -30,15 +31,15 @@ export default function Sections() {
             <div className='w-full h-1 bg-white rounded-full opacity-30 mt-2'></div>
         </div>
         <div className='mt-16 w-full flex flex-col items-center '>
-            <Image src={marrakech} onClick={setMarra} alt='marrakech' height={170} className='rounded-md cursor-pointer' />
+            <Image src={marrakech} onClick={setMarra} alt='marrakech' height={170} className={`rounded-md cursor-pointer ${city == 1 ? 'shadow-orange shadow-xl':''}`} />
             <div className='mt-3 text-white w-full text-center text-[13px] '>Marrakech : The vibrant heart of Morocco</div>
         </div>
         <div className='mt-3 w-full flex flex-col items-center '>
-            <Image src={second} alt='second' height={170} className='rounded-md cursor-pointer' />
+            <Image src={second} onClick={setChef} alt='second' height={170} className={`rounded-md cursor-pointer ${city == 2 ? 'shadow-orange shadow-xl' : ''} `} />
             <div className='mt-3 text-white w-full text-center text-[13px] '>Chefchaoune : The blue city of Morocco</div>
         </div>
         <div className='mt-3 w-full flex flex-col items-center '>
-            <Image src={third} alt='third' height={170} className='rounded-md cursor-pointer' />
+            <Image src={third} onClick={setOua} alt='third' height={170} className={`rounded-md cursor-pointer ${city == 3 ? 'shadow-orange shadow-xl' : ''}`} />
             <div className='mt-3 text-white w-full text-center text-[13px] '>Ouarzazate : The Hollywood of Africa</div>
         </div>
     </div>

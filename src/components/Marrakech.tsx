@@ -25,7 +25,7 @@ export default function Marrakech() {
                     <h2 className='text-orange'>Jemaa el-Fnaa</h2>
                     <p className='text-white xl:text-[13px] text-[16px] mt-3'>
                         The bustling main square of Marrakech is a UNESCO World Heritage site and 
-                        the heart of the city's cultural life. By day, it's a lively marketplace filled 
+                        the heart of the citys cultural life. By day, its a lively marketplace filled 
                         with vendors selling fresh produce, spices, and traditional crafts. As night falls, 
                         it transforms into an open-air theater with storytellers, musicians, and food stalls 
                         offering Moroccan delicacies.
@@ -46,7 +46,7 @@ export default function Marrakech() {
                     <p className='text-white xl:text-[13px] text-[16px] mt-3'>
                         A botanical haven designed by the French artist 
                         Jacques Majorelle and later owned by Yves Saint Laurent. 
-                        The garden is a serene escape from the city's hustle and bustle, 
+                        The garden is a serene escape from the citys hustle and bustle, 
                         featuring exotic plants, vibrant blue buildings, and a museum dedicated 
                         to Berber culture.
                     </p>
@@ -62,7 +62,7 @@ export default function Marrakech() {
                     Welcome to Marrakech Dive into the 
                     enchanting world of Marrakech, a city 
                     that perfectly blends ancient traditions with modern allure. 
-                    Known as the "Red City" for its distinct terracotta-colored buildings, 
+                    Known as the Red City for its distinct terracotta-colored buildings, 
                     Marrakech is a sensory delight with its vibrant souks, historical landmarks, 
                     and lush gardens.
                 </p>

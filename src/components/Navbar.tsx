@@ -13,13 +13,13 @@ export default function Navbar() {
                 <a onClick={setMain} className='hover:text-orange cursor-pointer '>Home</a>
             </li>
             <li>
-                <a className='hover:text-orange cursor-pointer '>Features</a>
+                <a className='hover:text-orange cursor-pointer '>Restaurants</a>
             </li>
             <li>
-                <a className='hover:text-orange cursor-pointer '>Community</a>
+                <a className='hover:text-orange cursor-pointer '>Hotels</a>
             </li>
             <li>
-                <a className='hover:text-orange cursor-pointer '>about</a>
+                <a className='hover:text-orange cursor-pointer '>About</a>
             </li>
             <li>
                 <a className='hover:text-orange cursor-pointer '>Support</a>
