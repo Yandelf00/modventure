@@ -6,6 +6,7 @@ type useCitiesProps = {
     setMarra : ()=>void,
     setChef : ()=>void,
     setOua : ()=>void,
+    setRes : ()=>void,
 }
 
 export const useCities = create<useCitiesProps>((set)=>({
@@ -13,5 +14,6 @@ export const useCities = create<useCitiesProps>((set)=>({
     setMain :()=>set({city : 0}),
     setMarra:()=>set({city : 1}),
     setChef:()=>set({city:2}),
-    setOua:()=>set({city:3})
+    setOua:()=>set({city:3}),
+    setRes:()=>set({city:4})
 }))

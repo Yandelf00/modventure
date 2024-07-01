@@ -6,6 +6,7 @@ import Hero from "@/components/Hero";
 import Search from "@/components/Search";
 import Sections from "@/components/Sections";
 import Marrakech from "@/components/Marrakech";
+import Chefchaoune from "@/components/Chefchaoune";
 import { useCities } from "@/hooks/useCities";
 
 
@@ -23,6 +24,7 @@ export default function Home() {
             {city === 0 ? (<Hero/>) : (<></>)}
           </div>
           {city === 1 ? (<Marrakech/>):(<></>)}
+          {city === 2 ? (<Chefchaoune/>):(<></>)}
         </div> 
         <div className="h-full w-[25%] flex flex-row">
           <Search/>
