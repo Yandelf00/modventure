@@ -5,7 +5,7 @@ import comp from '@/assets/comp.png'
 export default function About() {
   return (
     <div className='h-full w-full mt-10 lg:mt-0 flex justify-center items-center'>
-        <div className='h-[90%] w-[90%] backdrop-blur-md rounded-2xl flex flex-row overflow-y-scroll scrollbar-none'>
+        <div className='h-[90%] w-[90%] xl:max-h-[600px] backdrop-blur-md rounded-2xl flex flex-row overflow-y-scroll scrollbar-none'>
             <div className='w-1/2 max-h-full flex flex-col pt-2 pl-2 overflow-scroll scrollbar-none'>
                     <h1 className='text-white font-bold text-[30px]'>About Us</h1>
                     <h2 className='text-orange mt-5 text-[20px] font-semibold'>Welcome to Morocco</h2>
