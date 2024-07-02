@@ -10,6 +10,7 @@ import Chefchaoune from "@/components/Chefchaoune";
 import Ouarzazate from "@/components/Ouarzazate";
 import RestauHotels from "@/components/RestauHotels";
 import About from "@/components/About";
+import Prices from "@/components/Prices";
 import { useCities } from "@/hooks/useCities";
 
 
@@ -31,6 +32,7 @@ export default function Home() {
           {city === 3 ? (<Ouarzazate/>):(<></>)} 
           {city === 4 ? (<RestauHotels/>):(<></>)}
           {city === 5 ? (<About/>):(<></>)}
+          {city === 6 ? (<Prices/>):(<></>)}
         </div> 
         <div className="h-full w-[25%] flex flex-row">
           <Search/>
