@@ -46,9 +46,9 @@ export default function RestauHotels() {
                 </div>
                 <h1 className='text-white text-[25px]'>Filters</h1>
                 <div className='flex flex-row space-x-2'>
-                    <button onClick={setOne} className={`border border-1 ${filter === 1 ? 'bg-white text-fadDarkBlue':''} border-white rounded-xl bg-fadDarkBlue w-[130px] h-[45px] text-[11px] text-white`}>Marrakech</button>
-                    <button onClick={setTwo} className={`border border-1 ${filter === 2 ? 'bg-white text-fadDarkBlue' : ''} border-white rounded-xl bg-fadDarkBlue w-[130px] h-[45px] text-[11px] text-white`}>Ouarzazate</button>
-                    <button onClick={setThree} className={`border border-1 ${filter === 3 ? 'bg-white text-fadDarkBlue' : ''} border-white rounded-xl bg-fadDarkBlue w-[130px] h-[45px] text-[11px] text-white`}>Chefchaoune</button>
+                    <button onClick={setOne} className={`border border-1 ${filter === 1 ? 'bg-white text-darkBlue':'text-white'} border-white rounded-xl bg-fadDarkBlue w-[130px] h-[45px] text-[11px] `}>Marrakech</button>
+                    <button onClick={setTwo} className={`border border-1 ${filter === 2 ? 'bg-white text-darkBlue' : 'text-white'} border-white rounded-xl bg-fadDarkBlue w-[130px] h-[45px] text-[11px] `}>Ouarzazate</button>
+                    <button onClick={setThree} className={`border border-1 ${filter === 3 ? 'bg-white text-darkBlue' : 'text-white'} border-white rounded-xl bg-fadDarkBlue w-[130px] h-[45px] text-[11px] `}>Chefchaoune</button>
                 </div>
             </div>
         </div>
