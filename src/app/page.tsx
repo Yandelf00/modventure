@@ -9,6 +9,7 @@ import Marrakech from "@/components/Marrakech";
 import Chefchaoune from "@/components/Chefchaoune";
 import Ouarzazate from "@/components/Ouarzazate";
 import RestauHotels from "@/components/RestauHotels";
+import About from "@/components/About";
 import { useCities } from "@/hooks/useCities";
 
 
@@ -17,7 +18,7 @@ export default function Home() {
   return (
     <main className="h-full w-full">
       <div className="h-full w-full fixed">
-        <Image src={theBackground} alt="idk" fill={true}/>
+        <Image src={theBackground} alt="idk" fill={true} priority={true}/>
       </div>
       <div className="absolute top-0 h-full w-full flex flex-row">
         <div className="h-full w-[75%] flex flex-col">
@@ -29,6 +30,7 @@ export default function Home() {
           {city === 2 ? (<Chefchaoune/>):(<></>)}
           {city === 3 ? (<Ouarzazate/>):(<></>)} 
           {city === 4 ? (<RestauHotels/>):(<></>)}
+          {city === 5 ? (<About/>):(<></>)}
         </div> 
         <div className="h-full w-[25%] flex flex-row">
           <Search/>

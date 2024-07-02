@@ -1,52 +1,18 @@
-import { useEffect, useRef, useMemo } from "react";
-import { Loader } from "@googlemaps/js-api-loader";
+import React from 'react'
 
-// Import the type definitions for Google Maps
-/// <reference types="@types/google.maps" />
+export default function Map() {
+  return (
+    <div>
+      <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108703.1297379628!2d-8.090253542744207!3d31.634594989915804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh!5e0!3m2!1sen!2sma!4v1719939394502!5m2!1sen!2sma"
+                width="500"
+                height="300"
+                style={{ border: 0 }}
+                allowFullScreen
+                aria-hidden="false"
+                className='rounded-md'
+            />
 
-interface MapProps {
-  address: string;
+    </div>
+  )
 }
-
-const Map: React.FC<MapProps> = ({ address }) => {
-  const mapRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    const loader = new Loader({
-      apiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY!,
-      version: "weekly",
-    });
-
-    const initializeMap = async () => {
-      await loader.load();
-
-      if (!window.google) {
-        console.error("Google Maps JavaScript API failed to load.");
-        return;
-      }
-
-      const geocoder = new google.maps.Geocoder();
-      geocoder.geocode({ address }, (results, status) => {
-        if (status === "OK" && results) {
-          const map = new google.maps.Map(mapRef.current!, {
-            center: results[0].geometry.location,
-            zoom: 8,
-          });
-
-          new google.maps.Marker({
-            map: map,
-            position: results[0].geometry.location,
-          });
-        } else {
-          console.error(`Geocode was not successful for the following reason: ${status}`);
-        }
-      });
-    };
-
-    initializeMap();
-  }, [address]);
-
-  return <div style={{ height: "400px" }} ref={mapRef} />;
-};
-
-export default Map;

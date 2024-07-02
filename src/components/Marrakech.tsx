@@ -54,7 +54,7 @@ export default function Marrakech() {
             </div>
         </div>
         <div className='absolute top-0 flex flex-row inset-x-0 space-x-10 h-[350px]'>
-            <Image src={secMarr} alt='secmar' height={350} className='ml-5 rounded-3xl'/>
+            <Image src={secMarr} alt='secmar' height={350} priority={true} className='ml-5 rounded-3xl'/>
             <div className='h-full w-1/2 flex flex-col items-start mt-5 space-y-5 scrollbar-none overflow-y-scroll'>
                 <h1 className=' text-orange font-bold text-[20px]'>Marrakech</h1>
                 <p className='text-white xl:text-[15px] text-[20px]'>
