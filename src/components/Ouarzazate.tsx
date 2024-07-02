@@ -21,7 +21,7 @@ export default function Ouarzazate() {
                 backgroundImage : `url(${squiggle.src})`,
             }} 
         >
-            <div className='w-[90%] h-[70%] flex flex-row justify-between items-start space-x-5'>
+            <div className='w-[90%] h-[70%] flex flex-row justify-between items-start space-x-5 scrollbar-none overflow-scroll'>
                 <div className='flex flex-col'>
                     <h2 className='text-orange'>Atlas Film Studios</h2>
                     <p className='text-white xl:text-[13px] text-[16px] mt-3'>
@@ -49,9 +49,9 @@ export default function Ouarzazate() {
                 </div>
             </div>
         </div>
-        <div className='absolute top-0 flex flex-row inset-x-0 space-x-10 h-[400px]'>
+        <div className='absolute top-0 flex flex-row inset-x-0 space-x-10 h-[350px]'>
             <Image src={ouarzazate} alt='secmar' height={350} className='ml-5 rounded-3xl'/>
-            <div className='h-full w-1/2 flex flex-col items-start mt-5 space-y-5'>
+            <div className='h-full w-1/2 flex flex-col items-start mt-5 space-y-5 scrollbar-none overflow-y-scroll'>
                 <h1 className=' text-orange font-bold text-[20px]'>Ouarzazate</h1>
                 <p className='text-white xl:text-[15px] text-[20px]'>
                     Often referred to as the Door of the Desert,

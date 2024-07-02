@@ -28,7 +28,7 @@ export default function RestauHotels() {
                     <Image src={restauts} alt='restauts' height={350} className='rounded-xl'/>
                 </div>
                 <div className=''>
-                    <Image src={map} alt='map' height={350} className='rounded-xl'/> 
+                    <Image src={map} alt='map' height={350} className='rounded-xl'/>
                 </div>
                 
             </div>

@@ -1,7 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import secMarr from '@/assets/secondmara.png'
-import noshadwo from '@/assets/noshadow.png'
 import squiggle from '@/assets/squiggle.png'
 import chefchaoune from '@/assets/chefchaoune.png'
 import fourthbg from '@/assets/fourthbg.png'
@@ -21,7 +19,7 @@ export default function Chefchaoune() {
                 backgroundImage : `url(${squiggle.src})`,
             }} 
         >
-            <div className='w-[90%] h-[70%] flex flex-row justify-between items-start space-x-5'>
+            <div className='w-[90%] h-[70%] flex flex-row justify-between items-start scrollbar-none overflow-y-scroll space-x-5'>
                 <div className='flex flex-col'>
                     <h2 className='text-orange'>Kasbah Museum</h2>
                     <p className='text-white xl:text-[13px] text-[16px] mt-3'>
@@ -51,11 +49,11 @@ export default function Chefchaoune() {
                 </div>
             </div>
         </div>
-        <div className='absolute top-0 flex flex-row inset-x-0 space-x-10 h-[400px]'>
+        <div className='absolute top-0 flex flex-row inset-x-0 space-x-10 h-[350px]'>
             <Image src={chefchaoune} alt='chefchaoune' height={310} className='ml-5 rounded-3xl'/>
             <div className='h-full w-1/2 flex flex-col items-start mt-5 space-y-5'>
                 <h1 className=' text-orange font-bold text-[20px]'>Chefchaoune</h1>
-                <p className='text-white xl:text-[15px] text-[20px]'>
+                <p className='text-white xl:text-[15px] text-[20px] scrollbar-none overflow-y-scroll '>
                     Welcome to Chefchaouen
                     Nestled in the Rif Mountains, Chefchaouen 
                     is renowned for its striking blue-washed buildings 

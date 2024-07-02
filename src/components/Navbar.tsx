@@ -4,6 +4,7 @@ import logo from '@/assets/logo.png'
 import { useCities } from '@/hooks/useCities'
 
 export default function Navbar() {
+    const city = useCities((state)=>state.city)
     const setMain = useCities((state)=>state.setMain)
     const setRes = useCities((state)=>state.setRes)
   return (
@@ -11,10 +12,10 @@ export default function Navbar() {
         <Image alt='logo' src={logo} height={80} width={80} /> 
         <ul className='flex flex-row text-white xl:text-[14px]  text-[17px] lg:space-x-5 space-x-10'>
             <li>
-                <a onClick={setMain} className='hover:text-orange cursor-pointer '>Home</a>
+                <a onClick={setMain} className={`hover:text-orange cursor-pointer ${city === 0 ? 'text-orange':''} `}>Home</a>
             </li>
             <li>
-                <a onClick={setRes} className='hover:text-orange cursor-pointer '>R&H</a>
+                <a onClick={setRes} className={`hover:text-orange cursor-pointer ${city === 4 ? 'text-orange':''} `}>R&H</a>
             </li>
             <li>
                 <a className='hover:text-orange cursor-pointer '>Prices</a>
