@@ -1,135 +1,154 @@
-: 1719796384:0;z sat
-: 1719796342:0;ls
-: 1719796345:0;ls database
-: 1719796349:0;ls database/data
-: 1719796353:0;ls database/data/db
-: 1719796355:0;ls
-: 1719797220:0;npm i drizzle-orm postgres\
+z sat
+ls
+ls database
+ls database/data
+ls database/data/db
+ls
+npm i drizzle-orm postgres\
 npm i -D drizzle-kit
-: 1719797295:0;ls
-: 1719797302:0;n package.json
-: 1719797458:0;npm i drizzle-orm postgres\
+ls
+n package.json
+npm i drizzle-orm postgres\
 
-: 1719797475:0;ls
-: 1719797481:0;z database
-: 1719797481:0;ls
-: 1719797485:0;rm data
-: 1719797488:0;ls
-: 1719797498:1;npm i drizzle-orm
-: 1719797530:1;npm i
-: 1719797534:23;npm i drizzle-orm
-: 1719797650:2;npm install drizzle-orm --legacy-peer-deps\
+ls
+z database
+ls
+rm data
+ls
+npm i drizzle-orm
+npm i
+npm i drizzle-orm
+npm install drizzle-orm --legacy-peer-deps\
 
-: 1719797703:0;cp -r ../../SATm/shared/database .
-: 1719797704:0;ls
-: 1719797712:0;ls database
-: 1719797726:0;rm database
-: 1719797731:0;cp -r ../../SATm/shared/database db
-: 1719797733:0;ls
-: 1719797735:0;ls db
-: 1719797742:0;rm db
-: 1719797750:0;cp -r ../../SATm/shared/database/* .
-: 1719797752:0;ls
-: 1719797755:0;..
-: 1719797758:0;ls
-: 1719797808:0;cp ../SATm/shared/drizzle.config.ts  .
-: 1719797809:0;ls
-: 1719797817:0;ls database
-: 1719797845:0;n package.json
-: 1719797942:0;ls
-: 1719797962:0;git checkout db-branch
-: 1719797979:0;n package.json
-: 1719798007:0;ls
-: 1719798009:0;ls database
-: 1719798058:0;ls
-: 1719798063:0;n package.json
-: 1719798121:0;n database/db.server.ts
-: 1719798197:0;npm i env-var
-: 1719798203:0;n database/db.server.ts
-: 1719798221:0;npm i pg
-: 1719798262:0;ls
-: 1719798267:0;z database
-: 1719798269:0;ls
-: 1719798274:15;n migrate.ts
-: 1719798292:0;ls
-: 1719798298:8;n db.server.ts
-: 1719798329:0;git checkout db-branch
-: 1719798360:0;ls -la
-: 1719798403:0;..
-: 1719798404:0;ls
-: 1719798407:0;ls -la
-: 1719798419:0;n .gitignore
-: 1719798472:0;ls
-: 1719798516:0;git merge main 
-: 1719798556:0;ls
-: 1719798558:0;z database
-: 1719798616:0;z sat
-: 1719799348:0;ls
-: 1719799431:0;cat database/models/users/userModel.ts
-: 1719799439:0;cat database/models/users/usersTable.ts
-: 1719799449:0;cat database/models/users/userModel.ts
-: 1719799486:0;z shared
-: 1719798559:0;ls
-: 1719798562:8;n db.server.ts
-: 1719798574:2;npm i pg
-: 1719798584:2;npm i postgres
-: 1719798589:0;fg
-: 1719798592:9;n db.server.ts
-: 1719798652:5;npm i -D @types/pg
-: 1719798660:0;fg
-: 1719798663:16;n db.server.ts
-: 1719798723:92;btop
-: 1719798817:0;LS
-: 1719798819:0;ls
-: 1719798822:101;n db.server.ts
-: 1719798961:0;ls
-: 1719798963:196;fg
-: 1719799160:0;ls
-: 1719799164:0;ls models
-: 1719799209:0;mk users
-: 1719799216:0;ls
-: 1719799223:0;mv users models
-: 1719799226:0;z models
-: 1719799228:0;ls
-: 1719799234:0;mv * users
-: 1719799236:0;ls
-: 1719799242:0;..
-: 1719799243:0;ls
-: 1719799245:34;n db.server.ts
-: 1719799282:0;z models
-: 1719799283:0;ls
-: 1719799322:0;mk sessions cities hotels restaurants attractions
-: 1719799323:0;ms
-: 1719799326:0;ls
-: 1719799332:0;z sessions
-: 1719799386:0;tch sessionsTable sessionModel
-: 1719799387:0;ls
-: 1719799395:1;rm *
-: 1719799410:0;tch sessionsTable.ts sessionModel.ts
-: 1719799412:0;ls
-: 1719799420:94;n sessionModel.ts sessionsTable.ts
-: 1719799545:0;ls
-: 1719799577:0;mv sessionModel.ts ../
-: 1719799579:0;..
-: 1719799580:0;ls
-: 1719799594:0;mv users/userModel.ts .
-: 1719799595:0;l
-: 1719799607:0;rm attractions
-: 1719799610:0;rm hotels
-: 1719799613:0;rm cities
-: 1719799617:0;rm sessions
-: 1719799623:0;rm users
-: 1719799625:0;ls
-: 1719799629:0;rm restaurants
-: 1719799633:0;ls
-: 1719799719:0;tch restaurantModel.ts hotelModel.ts attractionModel.ts cityModel.ts att_comment.ts hot_comment.ts res_comment.ts
-: 1719799720:0;ls
-: 1719799724:819;n sessionModel.ts
-: 1719800558:44;n *_comment.ts
-: 1719800613:536;fg
-: 1719801151:0;ls
-: 1719801256:85;n sessionModel.ts
-: 1719801348:1489;n *.ts
-: 1719802847:0;../../
-: 1719802849:0;ls
-: 1719802868:0;n database/schema.ts
+cp -r ../../SATm/shared/database .
+ls
+ls database
+rm database
+cp -r ../../SATm/shared/database db
+ls
+ls db
+rm db
+cp -r ../../SATm/shared/database/* .
+ls
+..
+ls
+cp ../SATm/shared/drizzle.config.ts  .
+ls
+ls database
+n package.json
+ls
+git checkout db-branch
+n package.json
+ls
+ls database
+ls
+n package.json
+n database/db.server.ts
+npm i env-var
+n database/db.server.ts
+npm i pg
+ls
+z database
+ls
+n migrate.ts
+ls
+n db.server.ts
+git checkout db-branch
+ls -la
+..
+ls
+ls -la
+n .gitignore
+ls
+git merge main 
+ls
+z database
+z sat
+ls
+cat database/models/users/userModel.ts
+cat database/models/users/usersTable.ts
+cat database/models/users/userModel.ts
+z shared
+ls
+n db.server.ts
+npm i pg
+npm i postgres
+fg
+n db.server.ts
+npm i -D @types/pg
+fg
+n db.server.ts
+btop
+LS
+ls
+n db.server.ts
+ls
+fg
+ls
+ls models
+mk users
+ls
+mv users models
+z models
+ls
+mv * users
+ls
+..
+ls
+n db.server.ts
+z models
+ls
+mk sessions cities hotels restaurants attractions
+ms
+ls
+z sessions
+tch sessionsTable sessionModel
+ls
+rm *
+tch sessionsTable.ts sessionModel.ts
+ls
+n sessionModel.ts sessionsTable.ts
+ls
+mv sessionModel.ts ../
+..
+ls
+mv users/userModel.ts .
+l
+rm attractions
+rm hotels
+rm cities
+rm sessions
+rm users
+ls
+rm restaurants
+ls
+tch restaurantModel.ts hotelModel.ts attractionModel.ts cityModel.ts att_comment.ts hot_comment.ts res_comment.ts
+ls
+n sessionModel.ts
+n *_comment.ts
+fg
+ls
+n sessionModel.ts
+n *.ts
+../../
+ls
+n database/schema.ts
+ls
+n
+lspci | grep -i vga\
+
+neofetch
+duf
+exit
+ls
+neofetch
+fastfetch
+nix-shell -p fastfetch
+fastfetch
+nixos
+z nixos
+nix-shell -p fastfetch
+fastfetch
+exit
+: 1719929627:0;fastfetch
+: 1719929744:0;n
