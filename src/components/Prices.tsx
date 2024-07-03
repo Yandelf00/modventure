@@ -74,6 +74,9 @@ export default function Prices() {
             }
         }else{
             setDataRestaut([])
+            setHotelChef([])
+            setHotelOua([])
+            setHotelMar([])
         }
         setPrice('')
          
@@ -137,6 +140,42 @@ export default function Prices() {
                             </div>
                         )) : (<></>)}
                         {hr === 1 && city === 1 ? hotelMar.map((resto, num:number)=>(
+                            <div key={num} className='w-full'>
+                                <div className='w-[90%] flex flex-row space-x-5'>
+                                    <Image src={resto.imageUrls[0] ? resto.imageUrls[0] : "https://lh5.googleusercontent.com/p/AF1QipNo1kd0eBj6NzKiHLxNE_pPHOG3AI2cp_YFrC3I=w1920-h1080-k-no"} alt='idk' height={130} width={130} className='rounded-md'/>
+                                    <div className='flex flex-col justify-center'>
+                                        <h1 className='text-orange'>
+                                            {resto.title}
+                                        </h1>
+                                        <p className='text-white'>
+                                            {resto.phone}
+                                        </p>
+                                        <p className='text-white'>
+                                            {resto.price}dh
+                                        </p> 
+                                    </div>
+                                </div>
+                            </div>
+                        )) :(<></>)}
+                        {hr === 1 && city === 2 ? hotelOua.map((resto, num:number)=>(
+                            <div key={num} className='w-full'>
+                                <div className='w-[90%] flex flex-row space-x-5'>
+                                    <Image src={resto.imageUrls[0] ? resto.imageUrls[0] : "https://lh5.googleusercontent.com/p/AF1QipNo1kd0eBj6NzKiHLxNE_pPHOG3AI2cp_YFrC3I=w1920-h1080-k-no"} alt='idk' height={130} width={130} className='rounded-md'/>
+                                    <div className='flex flex-col justify-center'>
+                                        <h1 className='text-orange'>
+                                            {resto.title}
+                                        </h1>
+                                        <p className='text-white'>
+                                            {resto.phone}
+                                        </p>
+                                        <p className='text-white'>
+                                            {resto.price}dh
+                                        </p> 
+                                    </div>
+                                </div>
+                            </div>
+                        )) :(<></>)}
+                        {hr === 1 && city === 3 ? hotelChef.map((resto, num:number)=>(
                             <div key={num} className='w-full'>
                                 <div className='w-[90%] flex flex-row space-x-5'>
                                     <Image src={resto.imageUrls[0] ? resto.imageUrls[0] : "https://lh5.googleusercontent.com/p/AF1QipNo1kd0eBj6NzKiHLxNE_pPHOG3AI2cp_YFrC3I=w1920-h1080-k-no"} alt='idk' height={130} width={130} className='rounded-md'/>
