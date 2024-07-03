@@ -18,4 +18,7 @@ output_file="$2"
 # Use awk to replace the occurrences with a random number
 awk -v min=100 -v max=5000 'BEGIN { srand(); } { gsub(/"price": [0-9]+/, "\"price\": " min+rand()*max) } 1' "$input_file" >"$output_file"
 
+rm $input_file
+mv $output_file $input_file
+
 echo "Processing complete. Check the output file: $output_file"
