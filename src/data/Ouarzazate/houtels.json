@@ -1,0 +1,2022 @@
+[{
+  "title": "فندق امستردام",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "W3JX+Q29",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9321204,
+    "lng": -6.9026503
+  },
+  "price": 4287.91,
+  "rank": 21
+},
+{
+  "title": "aloj uarzazate",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "W4H7+983",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.92891,
+    "lng": -6.8868
+  },
+  "price": 834.765,
+  "rank": 22
+},
+{
+  "title": "Golden Tulip Karam Ouarzazate",
+  "totalScore": 3.7,
+  "reviewsCount": 192,
+  "street": "Av. Moulay Rachid",
+  "city": "Ouarzazate",
+  "website": "https://www.goldentulip.com/hotels-ouarzazate?utm_source=google&utm_medium=maps&utm_content=BRA60295&utm_campaign=GoldenTulip",
+  "phone": "+212 5248-82225",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://images.trvl-media.com/lodging/4000000/3530000/3522900/3522807/w1600h1064x0y68-bba065dd_z.jpg"
+  ],
+  "location": {
+    "lat": 30.9202618,
+    "lng": -6.9044979
+  },
+  "price": 1147.91,
+  "rank": 19
+},
+{
+  "title": "Riad Ouarzazate",
+  "totalScore": 4.3,
+  "reviewsCount": 252,
+  "street": "HAY EL WAHDA 1462, RUE OUKAIMDEN",
+  "city": "Ouarzazate",
+  "website": "http://www.riad-ouarzazate.com/",
+  "phone": "+212 664-904480",
+  "categoryName": "Lodging",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/69/a8/28/riad-ouarzazate.jpg?w=2100&h=1000&s=1"
+  ],
+  "location": {
+    "lat": 30.929458,
+    "lng": -6.8988624
+  },
+  "price": 2414.52,
+  "rank": 21
+},
+{
+  "title": "Hôtel Atlas",
+  "totalScore": 3.5,
+  "reviewsCount": 114,
+  "street": "W3CM+9H9",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNdyjUfnin-cNPn8d8eJLMdaNvj6b2Ok-A7u6aY=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9209168,
+    "lng": -6.9160185
+  },
+  "price": 986.07,
+  "rank": 18
+},
+{
+  "title": "Residence Chay (Appart-Hotel)",
+  "totalScore": 4.4,
+  "reviewsCount": 49,
+  "street": "N°132 Hay",
+  "city": "Ouarzazate",
+  "website": "http://www.residencechay.com/",
+  "phone": "+212 661-923077",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://images.trvl-media.com/lodging/97000000/96350000/96347700/96347683/6bbb6575_z.jpg"
+  ],
+  "location": {
+    "lat": 30.93184,
+    "lng": -6.9172187
+  },
+  "price": 2824.78,
+  "rank": 16
+},
+{
+  "title": "Dar Bergui",
+  "totalScore": 4.6,
+  "reviewsCount": 103,
+  "street": "W3GJ+WRF",
+  "city": "Ouarzazate",
+  "website": "http://www.darbergui.com/",
+  "phone": "+212 668-675164",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/9a/e6/66/photo0jpg.jpg?w=1900&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9273155,
+    "lng": -6.9179576
+  },
+  "price": 901.185,
+  "rank": 20
+},
+{
+  "title": "Hôtel Riad Amlal",
+  "totalScore": 4.2,
+  "reviewsCount": 408,
+  "street": "Rue du Marché Lotissement du Centre, Rue du Marché",
+  "city": "Ouarzazate",
+  "website": "http://www.hotelriadamlal.com/",
+  "phone": "+212 5248-84030",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO63_zaUVLiniMpJeFPaft6yYieKk43ez2nZVh4=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.920967,
+    "lng": -6.917412
+  },
+  "price": 223.728,
+  "rank": 19
+},
+{
+  "title": "Hôtel Azoul",
+  "totalScore": 4.1,
+  "reviewsCount": 300,
+  "street": "W3CG+MJ2, Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-83015",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard_bluecom/Ul2c4Gwipc8i5CtLPZxZ7sP4qGppxkwwBkgquxIEIuq15TnZ8r_DXKQL4imEMNtYC34NX5k9DGQlI6GZ5RYihoK7jxJzFUpHzLLpC8ml4wKGTm0OsV8ZPeJo9jIstfs=.jpg"
+  ],
+  "location": {
+    "lat": 30.9216399,
+    "lng": -6.9234928
+  },
+  "price": 4001.45,
+  "rank": 17
+},
+{
+  "title": "Hotel Rose Valley",
+  "totalScore": 4.1,
+  "reviewsCount": 508,
+  "street": "Lot Billad Alkhir Quartier Tassoumaate",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-82525",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7c/c8/76/front-of-hotel-and-bus.jpg?w=1900&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9250843,
+    "lng": -6.9299257
+  },
+  "price": 4977.37,
+  "rank": 16
+},
+{
+  "title": "Hôtel Complexe le Fint Ouarzazate",
+  "totalScore": 3.5,
+  "reviewsCount": 293,
+  "street": "W4C2+HQ4 Kasbah de Taourirte, Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-84886",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/4f/1c/11/caption.jpg?w=2100&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9213889,
+    "lng": -6.8980556
+  },
+  "price": 288.475,
+  "rank": 15
+},
+{
+  "title": "Dar Amoudou",
+  "totalScore": 4.7,
+  "reviewsCount": 189,
+  "street": "W4F9+G89",
+  "city": "Ouarzazate",
+  "website": "http://daramoudou.com/",
+  "phone": "+212 660-708144",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/26/1b/261b906f6dd7a2d30eb6e1ebf422a8352a07309f.jpeg"
+  ],
+  "location": {
+    "lat": 30.9237895,
+    "lng": -6.881634
+  },
+  "price": 4476.86,
+  "rank": 14
+},
+{
+  "title": "Hotel Karam Palace",
+  "totalScore": 3.6,
+  "reviewsCount": 255,
+  "street": "Av. Moulay Rachid",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-82225",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://images.trvl-media.com/lodging/4000000/3530000/3522900/3522807/w1600h1064x0y68-bba065dd_z.jpg"
+  ],
+  "location": {
+    "lat": 30.9202512,
+    "lng": -6.9044191
+  },
+  "price": 2894.44,
+  "rank": 11
+},
+{
+  "title": "Hôtel Club Hanane",
+  "totalScore": 3.4,
+  "reviewsCount": 379,
+  "street": "227 Av. Erraha",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-82555",
+  "categoryName": "Lodging",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/92/95/84/hanane-club.jpg?w=2100&h=1200&s=1"
+  ],
+  "location": {
+    "lat": 30.9254473,
+    "lng": -6.9089334
+  },
+  "price": 4382.81,
+  "rank": 10
+},
+{
+  "title": "Riad Parfums de Ouarzazate Maison d'hôtes",
+  "totalScore": 4.7,
+  "reviewsCount": 52,
+  "street": "Av Moullay Abdellah, 942 Al Wadha",
+  "city": "Ouarzazate",
+  "website": "http://www.riadparfumsdeouarzazate.com/",
+  "phone": "+212 603-583981",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipM2i1fNZaOiGpWCtfe7NhBRWgTbEpc1JctN2Bzh=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9314734,
+    "lng": -6.8997047
+  },
+  "price": 3268.98,
+  "rank": 9
+},
+{
+  "title": "La Perle Du Sud",
+  "totalScore": 3.8,
+  "reviewsCount": 640,
+  "street": "39, W3CJ+42Q, 40 boulevard Mohamed V",
+  "city": "Ouarzazate",
+  "website": "http://hotellaperledusud.com/en/",
+  "phone": "+212 5248-88643",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOOn76GTrXx_hTcGoIezl4NmnWVyidUS4nMEbo=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9204246,
+    "lng": -6.9200872
+  },
+  "price": 4370.91,
+  "rank": 6
+},
+{
+  "title": "Hotel Kenzi Azghor Ouarzazate Morocco",
+  "totalScore": 3.6,
+  "reviewsCount": 727,
+  "street": "Av. Prince Moulay Rachid",
+  "city": "Ouarzazate",
+  "website": "https://www.kenzi-hotels.com/en/kenzi-azghor",
+  "phone": "+212 5248-86501",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAONV6QEFAKJCAp5TmIZFUhxubMlnnhU"
+  ],
+  "location": {
+    "lat": 30.9206426,
+    "lng": -6.9080007
+  },
+  "price": 2932.21,
+  "rank": 5
+},
+{
+  "title": "The kozyhome Ouarzazate",
+  "totalScore": 3.7,
+  "reviewsCount": 77,
+  "street": "hay el wahda 1880, 45000",
+  "city": "Ouarzazate",
+  "website": "http://www.thekozyhomeouarzazate.com/?utm_source=local&utm_medium=organic&utm_campaign=GMB",
+  "phone": "+212 708-636211",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOv_t5--TuTVNdWuLuVpuMOwmS_ucDh6l2jT4n6=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9294125,
+    "lng": -6.894923
+  },
+  "price": 598.454,
+  "rank": 4
+},
+{
+  "title": "Le Petit Riad Maison d'hôtes Ouarzazate",
+  "totalScore": 4.8,
+  "reviewsCount": 245,
+  "street": "1581 Av. Moulay Abdellah",
+  "city": "Ouarzazate",
+  "website": "http://www.petitriad.com/",
+  "phone": "+212 668-084320",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "https://images.trvl-media.com/lodging/11000000/10490000/10482700/10482675/c3d47c5b_z.jpg"
+  ],
+  "location": {
+    "lat": 30.9305882,
+    "lng": -6.8973591
+  },
+  "price": 2130.22,
+  "rank": 2
+},
+{
+  "title": "ibis Ouarzazate Centre",
+  "totalScore": 4,
+  "reviewsCount": 992,
+  "street": "Av. Moulay Rachid",
+  "city": "Ouarzazate",
+  "website": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=6231&merchantid=seo-maps-MA-6231&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+  "phone": "+212 5248-99110",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/9c/78/7f/ibis-moussafir-ouarzazate.jpg?w=2100&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9200487,
+    "lng": -6.9037713
+  },
+  "price": 817.549,
+  "rank": 3
+},
+{
+  "title": "Berbere Palace",
+  "totalScore": 4.6,
+  "reviewsCount": 1387,
+  "street": "Rue Al-Mansour Ad-Dahbi",
+  "city": "Ouarzazate",
+  "website": "https://www.berberepalace.com/",
+  "phone": "+212 5248-83105",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/170/659/49/Pool_O.jpg"
+  ],
+  "location": {
+    "lat": 30.923062,
+    "lng": -6.909776
+  },
+  "price": 3555.68,
+  "rank": 1
+},
+{
+  "title": "Motel Safari Budget",
+  "totalScore": 4.3,
+  "reviewsCount": 104,
+  "street": "W2QF+J28, Route de Marrakech",
+  "city": "Ouarzazate",
+  "website": "https://safaribudget.xtadia.com/",
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNpfB86T-4WDawy8jwjhkaUaVk43bSV2bJRL2e5=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9390319,
+    "lng": -6.9774307
+  },
+  "price": 4629.53,
+  "rank": 11
+},
+{
+  "title": "K",
+  "totalScore": 4.5,
+  "reviewsCount": 37,
+  "street": "W4H4+6R3, Hay Al Mouquama",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-86208",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/7a/a9/39/khris-palace.jpg?w=1200&h=900&s=1"
+  ],
+  "location": {
+    "lat": 30.92802,
+    "lng": -6.892939
+  },
+  "price": 1120.87,
+  "rank": 29
+},
+{
+  "title": "Hāfsā ino",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "Lottisement N 291",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Love hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9369899,
+    "lng": -6.9513517
+  },
+  "price": 3653.14,
+  "rank": 21
+},
+{
+  "title": "Club Drââ",
+  "totalScore": 4.1,
+  "reviewsCount": 71,
+  "street": "W3G6+HFR, N9",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPl2lgMqzsDL-nUOyewE_Rbw_-7AHh4g4KjG1Yv=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9264856,
+    "lng": -6.9388613
+  },
+  "price": 1091.22,
+  "rank": 22
+},
+{
+  "title": "Hôtel Kissane",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "Av Mohamed V , Centre Agdz P.O.Box: 45000",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-43044",
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.927269,
+    "lng": -6.939907
+  },
+  "price": 3131.08,
+  "rank": 21
+},
+{
+  "title": "Résidence Fadloullah",
+  "totalScore": 4.8,
+  "reviewsCount": 4,
+  "street": "234 Av. Al-Maghreb Al-Arabi",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-88868",
+  "categoryName": "Extended stay hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOnOQzTIe3GzPuHGtLyzO20OG_qcZb2vU-SAWI=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9266573,
+    "lng": -6.9065357
+  },
+  "price": 3633.95,
+  "rank": 28
+},
+{
+  "title": "Maison de ville agréable avec un patio marocain",
+  "totalScore": 3,
+  "reviewsCount": 2,
+  "street": "W4F2+HW3",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9238912,
+    "lng": -6.8977026
+  },
+  "price": 2271.77,
+  "rank": 27
+},
+{
+  "title": "Résidence Lbayaz",
+  "totalScore": 3.9,
+  "reviewsCount": 25,
+  "street": "W3GV+RV3, Av. Al-Maghreb Al-Arabi",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 634-349369",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP9zv11cRvYjSkWi3ZnxECJfhhyyM5T_AxIXGNO=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9270082,
+    "lng": -6.9053257
+  },
+  "price": 4410.41,
+  "rank": 26
+},
+{
+  "title": "Residencial Al Andaluz Ouarzazate",
+  "totalScore": 2.4,
+  "reviewsCount": 9,
+  "street": "W3FV+7C6",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPi4H0UH1WqAJoKZgp7uS5O4s18EvUHj_KcJKG7=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9231565,
+    "lng": -6.9064913
+  },
+  "price": 1763.41,
+  "rank": 25
+},
+{
+  "title": "Résidence IHDA",
+  "totalScore": 3.7,
+  "reviewsCount": 45,
+  "street": "W3GV+PC2, Av. Al-Maghreb Al-Arabi",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-84018",
+  "categoryName": "Extended stay hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOhNIOv1h1sN-4q2BE63ElQ_haZ4Qc5jDcuPY4e=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.926755,
+    "lng": -6.906473
+  },
+  "price": 4595.98,
+  "rank": 24
+},
+{
+  "title": "Résidence Zaouite Bakabou",
+  "totalScore": 4.8,
+  "reviewsCount": 8,
+  "street": "W3GV+M8P",
+  "city": "Ouarzazate",
+  "website": "https://www.facebook.com/R%C3%A9sidence-Zaouite-Bakabou-106854522180375",
+  "phone": "+212 5248-88689",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNzFPEIO8XW6mfeduZjrhBeuxUM2AuPDv9Wxw3i=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9267099,
+    "lng": -6.9066579
+  },
+  "price": 3229.79,
+  "rank": 23
+},
+{
+  "title": "Hôtel Résidence Jannat",
+  "totalScore": 4.6,
+  "reviewsCount": 16,
+  "street": "N°1343, Avenue Elmaghreb ei arabi",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 8086-94864",
+  "categoryName": "Extended stay hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN-Xc6o22Dv8lBpzL1tdwdR5wsOALS2YH9suUbz=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9282564,
+    "lng": -6.9008665
+  },
+  "price": 2886.97,
+  "rank": 22
+},
+{
+  "title": "Hôtel Amsterdam",
+  "totalScore": 4.1,
+  "reviewsCount": 98,
+  "street": "Av. Al-Maghreb Al-Arabi",
+  "city": "Ouarzazate",
+  "website": "https://hotelamsterdam07.wixsite.com/amst",
+  "phone": "+212 5248-90102",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipM8iTQTwdKTapcTyC5jA67QlTo7wUxQZAjQiRlv=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9273799,
+    "lng": -6.9040683
+  },
+  "price": 3478.99,
+  "rank": 21
+},
+{
+  "title": "Hôtel Rayyan L'Escale",
+  "totalScore": 4.5,
+  "reviewsCount": 32,
+  "street": "Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": "http://www.rayyan-lescale.com/",
+  "phone": "+212 8086-54584",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMsb9SI050Q2dxFRR5qIc5qRTHzqa2YXTx7924m=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9185249,
+    "lng": -6.9018167
+  },
+  "price": 3151.6,
+  "rank": 16
+},
+{
+  "title": "Hôtel Bab Sahara",
+  "totalScore": 3.7,
+  "reviewsCount": 80,
+  "street": "Place Al Mouahidine",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-84722",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/68/7f/53/innenhof-des-hotelbereichs.jpg"
+  ],
+  "location": {
+    "lat": 30.9214966,
+    "lng": -6.9131268
+  },
+  "price": 4449.69,
+  "rank": 15
+},
+{
+  "title": "cinemariad",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "W3M7+C63",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 661-727628",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/fb/22/fb22c868d872b0804ae600ca3e76b9b3f4c571c9.jpeg"
+  ],
+  "location": {
+    "lat": 30.9335221,
+    "lng": -6.9369512
+  },
+  "price": 2557.07,
+  "rank": 14
+},
+{
+  "title": "Hôtel Résidence Al Warda",
+  "totalScore": 4.5,
+  "reviewsCount": 25,
+  "street": null,
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 8086-22296",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPgYoffmGCQbdu1cCLcsHwVD0FFnTjM8_MYRiP3=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9225004,
+    "lng": -6.9258193
+  },
+  "price": 2725.86,
+  "rank": 19
+},
+{
+  "title": "Résidence Bab El Janoub",
+  "totalScore": 4.3,
+  "reviewsCount": 54,
+  "street": "Boulevard Med V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 661-359880",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPf2Q4176nDYKZ_esuN7sxtpXVmp34qB1Pg06ka=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9243969,
+    "lng": -6.9314588
+  },
+  "price": 3604.76,
+  "rank": 20
+},
+{
+  "title": "Dar El Nath",
+  "totalScore": 4.6,
+  "reviewsCount": 37,
+  "street": "111",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-84167",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cf/b5/9c/dar-el-nath.jpg?w=2100&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9198982,
+    "lng": -6.8991293
+  },
+  "price": 5010.4,
+  "rank": 18
+},
+{
+  "title": "Rose noire",
+  "totalScore": 4.5,
+  "reviewsCount": 122,
+  "street": "Ouarzazate 45000, Maroc",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-86067",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/0a/9e/0a9e597da55dd34625d8e28df5436a87ebd8306e.jpeg"
+  ],
+  "location": {
+    "lat": 30.918419,
+    "lng": -6.8986084
+  },
+  "price": 701.451,
+  "rank": 17
+},
+{
+  "title": "Tirika Hotel la Gazelle",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "W3G7+FP4, Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 661-530633",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://images.trvl-media.com/lodging/105000000/104270000/104269700/104269672/cdd2e5c7_z.jpg"
+  ],
+  "location": {
+    "lat": 30.92614,
+    "lng": -6.935682
+  },
+  "price": 1784.25,
+  "rank": 5
+},
+{
+  "title": "Mouny Ferme d'Hôte",
+  "totalScore": 3,
+  "reviewsCount": 2,
+  "street": "W494+WHW, Village imzoeghene commune rurale ait zinbe",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 662-134375",
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.91987,
+    "lng": -6.893539
+  },
+  "price": 3388.49,
+  "rank": 21
+},
+{
+  "title": "Hotel Café Restaurant IAZAL",
+  "totalScore": 4.7,
+  "reviewsCount": 36,
+  "street": "Av. Moulay Abdellah",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-86187",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP4Lnlbzj_Dufy1VaTj7JilY1jeHAeS7k4od-6C=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9274433,
+    "lng": -6.927526
+  },
+  "price": 1749.45,
+  "rank": 20
+},
+{
+  "title": "La Maison Arabe",
+  "totalScore": 5,
+  "reviewsCount": 4,
+  "street": "Quartier Mansour Eddahbi , C/O Le Berbère Palace",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-83105",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMjnr-Cx67J4AlMNl4Eo6okp381A6-cVcChApV8=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.919091,
+    "lng": -6.903823
+  },
+  "price": 350.865,
+  "rank": 38
+},
+{
+  "title": "Riad Adam Palace",
+  "totalScore": 1,
+  "reviewsCount": 1,
+  "street": "W38P+RF8",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 667-342916",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMOCd1--77Sf7ichnxVK7xLENBPV6lkz3oaG_rp=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9170441,
+    "lng": -6.91379
+  },
+  "price": 498.813,
+  "rank": 37
+},
+{
+  "title": "Aigle Résidence Tichka OUARZAZATE",
+  "totalScore": 2.3,
+  "reviewsCount": 3,
+  "street": "152 Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 701-824704",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/da/fe/a8/caption.jpg?w=1800&h=900&s=1"
+  ],
+  "location": {
+    "lat": 30.9204481,
+    "lng": -6.9153337
+  },
+  "price": 1132.54,
+  "rank": 36
+},
+{
+  "title": "Hôtel Restaurant Draa",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "Rte Zagoura , Km 2",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-54761",
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.919091,
+    "lng": -6.903823
+  },
+  "price": 3787.13,
+  "rank": 35
+},
+{
+  "title": "Hôtel Restaurant Du Nord",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "Quartier Artisanal",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-84160",
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.919091,
+    "lng": -6.903823
+  },
+  "price": 3087.8,
+  "rank": 34
+},
+{
+  "title": "Hôtel Restaurant Azla",
+  "totalScore": 5,
+  "reviewsCount": 3,
+  "street": "Bloc D N°148 Cité La Résistance",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5268-96898",
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.919091,
+    "lng": -6.903823
+  },
+  "price": 1927.48,
+  "rank": 32
+},
+{
+  "title": "Hotel Tichka",
+  "totalScore": 3,
+  "reviewsCount": 1,
+  "street": "Boulevard Mohamed, BP 251،",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9179193,
+    "lng": -6.9024969
+  },
+  "price": 4571.43,
+  "rank": 31
+},
+{
+  "title": "Hôtel Mercure Ouarzazate",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "W39X+Q3V, Av. Moulay Rachid",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-99100",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOVXL-uECFlSaj4LeU31c7z60OVqOLepJi9tJlZ=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9194825,
+    "lng": -6.9023213
+  },
+  "price": 3213.86,
+  "rank": 29
+},
+{
+  "title": "Hôtel Royal",
+  "totalScore": 3.5,
+  "reviewsCount": 105,
+  "street": "W3CM+6XM",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-82258",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPbgoWfaHRR3pf1f0XnLEZcNUdQd9QAXHzUQL5q=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9205763,
+    "lng": -6.9150856
+  },
+  "price": 2092.61,
+  "rank": 26
+},
+{
+  "title": "Ouarzazate Le Riad Hotel",
+  "totalScore": 3.6,
+  "reviewsCount": 643,
+  "street": "BP 251، Boulevard Mohamed",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-83335",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/fd/6b/61/riad-salam.jpg?w=1900&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9182033,
+    "lng": -6.9028205
+  },
+  "price": 4465.35,
+  "rank": 25
+},
+{
+  "title": "Hôtel La Vallée (Restaurant)",
+  "totalScore": 3,
+  "reviewsCount": 1,
+  "street": "Hay Tabounte , Rte Zagoura Km 1 P.O.Box: 45000",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-54034",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPlNcch0xilhZEwU7hzuSixleJ2nUHPGV6jMsKs=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.919091,
+    "lng": -6.903823
+  },
+  "price": 284.69,
+  "rank": 24
+},
+{
+  "title": "Hôtel Essalam",
+  "totalScore": 3.7,
+  "reviewsCount": 55,
+  "street": null,
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-82512",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMcbVWGfNryfyHMdcfol3lbOv3GyijwN0rUoCWv=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9201347,
+    "lng": -6.9150018
+  },
+  "price": 2292.43,
+  "rank": 23
+},
+{
+  "title": "BerberFamellyRoom",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "W3HF+HFR, N9",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Homestay",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9289857,
+    "lng": -6.9263745
+  },
+  "price": 1647.87,
+  "rank": 4
+},
+{
+  "title": "Warzazat Apartments and Hostel",
+  "totalScore": 4.9,
+  "reviewsCount": 11,
+  "street": null,
+  "city": "Ouarzazate",
+  "website": "https://www.instagram.com/warzazathostel",
+  "phone": "+212 678-407292",
+  "categoryName": "Hostel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPJv4fonFbWu92405_kzdDwT9NO7qlMSuoSRyUT=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9333282,
+    "lng": -6.9192941
+  },
+  "price": 1619.85,
+  "rank": 12
+},
+{
+  "title": "Hôtel Hicham",
+  "totalScore": 3.4,
+  "reviewsCount": 34,
+  "street": "87 شارع الموحدين",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 696-481826",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPnejQUhi9MJGZaUew0nEz4yC0pBapJ7juG0Gw=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9213062,
+    "lng": -6.9161447
+  },
+  "price": 4111.74,
+  "rank": 11
+},
+{
+  "title": "CTM Ouarzazate",
+  "totalScore": 4,
+  "reviewsCount": 763,
+  "street": "Rue de la Poste",
+  "city": "Ouarzazate",
+  "website": "http://ctm.ma/",
+  "phone": "+212 5248-82427",
+  "categoryName": "Trucking company",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN4aiCG5Nwr82ypp3796HJBSyXUgoCG7jpTPgym=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9205515,
+    "lng": -6.9113781
+  },
+  "price": 4775.6,
+  "rank": 35
+},
+{
+  "title": "Naga travel",
+  "totalScore": 4.9,
+  "reviewsCount": 7,
+  "street": "Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": "http://www.naga-travel.com/",
+  "phone": "+212 644-777405",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOCHvdWggGbYZ3BaLya0Ow54jsthGV2kcKkU17l=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.92008,
+    "lng": -6.9121196
+  },
+  "price": 1712.42,
+  "rank": 34
+},
+{
+  "title": "Pharmacie La Kasbah",
+  "totalScore": 4.4,
+  "reviewsCount": 9,
+  "street": "W39V+MR7",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-87900",
+  "categoryName": "Pharmacy",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP2XCypXhyF9WBJ7MHI-gz7E1AFpYGMxhRlDnc2=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.91917,
+    "lng": -6.9054383
+  },
+  "price": 3633.38,
+  "rank": 33
+},
+{
+  "title": "Berbère Voyages - Morocco Desert Tours and Ouarzazate Day Trips",
+  "totalScore": 4.3,
+  "reviewsCount": 12,
+  "street": "N4 bis Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": "http://www.berbere-voyages.com/",
+  "phone": "+212 661-964988",
+  "categoryName": "Transportation service",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNGmi5J5muZYlAs79MT58113BsOUTj_rS4tqR_Y=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.920429,
+    "lng": -6.915998
+  },
+  "price": 2527.85,
+  "rank": 32
+},
+{
+  "title": "Portal Marrocos",
+  "totalScore": 4.8,
+  "reviewsCount": 17,
+  "street": "Place Al-Mouahidine 576",
+  "city": "Ouarzazate",
+  "website": "https://portalmarrocos.com/",
+  "phone": "+212 662-291705",
+  "categoryName": "Sightseeing tour agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMLuBXbWoIELmBoWGq-NwXWVilZjn3X5iAv5IOB=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9211428,
+    "lng": -6.9128754
+  },
+  "price": 732.099,
+  "rank": 31
+},
+{
+  "title": "Marrakech Expedition 4x4",
+  "totalScore": 4.9,
+  "reviewsCount": 56,
+  "street": "Rue Al-Mouahidine",
+  "city": "Ouarzazate",
+  "website": "http://www.marrakech-expedition-4x4.com/",
+  "phone": "+212 662-291705",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPnWGoBlZPdGyw7r81yTQHVaozfRIkrTJ3joDVS=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9211417,
+    "lng": -6.9128543
+  },
+  "price": 3607.17,
+  "rank": 28
+},
+{
+  "title": "Jardin Des Arômes ouarzazate",
+  "totalScore": 4.5,
+  "reviewsCount": 330,
+  "street": "Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-88802",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOvvT_TSMC8YeGs7fXe5qvNtRh-1JmuEN8cOO2k=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9201513,
+    "lng": -6.9153412
+  },
+  "price": 3136.57,
+  "rank": 29
+},
+{
+  "title": "Original Morocco Tours | Sahara Desert Trip & Camel Trekking",
+  "totalScore": 4.6,
+  "reviewsCount": 23,
+  "street": "N 2567",
+  "city": "Tarmigt",
+  "website": "http://www.originalmoroccotours.com/",
+  "phone": "+212 670-182242",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOr8xnl1xS_EHLtcH1xBZ1dcf6--XyitK6_VdQ1=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9204205,
+    "lng": -6.9113127
+  },
+  "price": 4766.33,
+  "rank": 30
+},
+{
+  "title": "Al Baraka des Loisirs",
+  "totalScore": 3.8,
+  "reviewsCount": 385,
+  "street": "380 Rue Al-Mansour Ad-Dahbi",
+  "city": "Ouarzazate",
+  "website": "http://www.hotelalbaraka.ma/",
+  "phone": "+212 5248-84041",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN8zYod7nOxaBFIVB1i2mrcJmS0hv5AYbf91lkJ=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9397607,
+    "lng": -6.9841774
+  },
+  "price": 1110.46,
+  "rank": 21
+},
+{
+  "title": "Hotel Residence Kounouz",
+  "totalScore": 4.5,
+  "reviewsCount": 35,
+  "street": "W3CH+CJ5",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-88296",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/1e/0e/1e0ed5ef8c3279bc29dc8fab088e5b0f79b029b1.jpeg"
+  ],
+  "location": {
+    "lat": 30.9210019,
+    "lng": -6.9208925
+  },
+  "price": 2580.24,
+  "rank": 5
+},
+{
+  "title": "Hôtel Ouarzazate Le Zat",
+  "totalScore": 3.4,
+  "reviewsCount": 237,
+  "street": "W4G8+46R, BP 39 Rue Ait Kdif",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-82521",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/zz/62/ad629ad3b982b26e4d0f2fd7602725d3fb4f87a0.jpeg"
+  ],
+  "location": {
+    "lat": 30.9254528,
+    "lng": -6.8848882
+  },
+  "price": 1777.23,
+  "rank": 21
+},
+{
+  "title": "Résidence Ouarzazate",
+  "totalScore": 3.9,
+  "reviewsCount": 46,
+  "street": "109 lotissement centre",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 661-212764",
+  "categoryName": "Extended stay hotel",
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/75/47/75472c4689095aca3941312e545ecdac9723b17b.jpeg"
+  ],
+  "location": {
+    "lat": 30.9225261,
+    "lng": -6.9185158
+  },
+  "price": 2433.84,
+  "rank": 19
+},
+{
+  "title": "marrakech tighduine",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "W3M7+C63",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hotel",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9335145,
+    "lng": -6.9369509
+  },
+  "price": 4775.71,
+  "rank": 21
+},
+{
+  "title": "Nkob-Tours | location voiture ouarzazate - car rental ouarzazate",
+  "totalScore": 4.9,
+  "reviewsCount": 25,
+  "street": "Hotel Amlal, Lot. Du Centre N° 24 - 25",
+  "city": "Ouarzazate",
+  "website": "http://www.nkob-tours.com/",
+  "phone": "+212 666-348307",
+  "categoryName": "Car rental agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipND_cprOVxI4j0yAnCcFtEqw2AtVm1gmEBPMYBQ=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9208457,
+    "lng": -6.9175119
+  },
+  "price": 690.348,
+  "rank": 30
+},
+{
+  "title": "Ouarzazate.city",
+  "totalScore": 4.9,
+  "reviewsCount": 9,
+  "street": "W3CM+5G6, Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": "https://ouarzazate.city/",
+  "phone": "+212 626-363608",
+  "categoryName": "Information services",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMldzbfR1QqSlydN2z8j6y5Fz9IjWitsGb3Tm2e=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9204081,
+    "lng": -6.9162251
+  },
+  "price": 2230.11,
+  "rank": 33
+},
+{
+  "title": "Anaam Tours",
+  "totalScore": 4.2,
+  "reviewsCount": 10,
+  "street": "W3CJ+7GM",
+  "city": "Ouarzazate",
+  "website": "http://www.anaamtours.com/",
+  "phone": "+212 661-351688",
+  "categoryName": "Tour operator",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMOI61u3Ss2XRLW0sR5577IjqurmllEXOFAmfxE=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.920715,
+    "lng": -6.9187187
+  },
+  "price": 531.309,
+  "rank": 26
+},
+{
+  "title": "Dar Rita",
+  "totalScore": 4.6,
+  "reviewsCount": 305,
+  "street": "39 Rue de la Mosquée",
+  "city": "Ouarzazate",
+  "website": "https://www.darrita.com/",
+  "phone": "+212 654-164726",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNFQBwf-rvP5bfOCCp0DPYDeCRMzciRrTIV3QGc=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9227388,
+    "lng": -6.9318622
+  },
+  "price": 1771.19,
+  "rank": 5
+},
+{
+  "title": "Temple des Arts",
+  "totalScore": 4.3,
+  "reviewsCount": 70,
+  "street": "173-174 Hay Al Wahda",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-88831",
+  "categoryName": "Guest house",
+  "imageUrls": [
+    "http://media.staticontent.com/media/pictures/c1bbf6f6-693b-4cb3-87b6-95462788dfa8"
+  ],
+  "location": {
+    "lat": 30.9281445,
+    "lng": -6.9088983
+  },
+  "price": 3873.21,
+  "rank": 24
+},
+{
+  "title": "Hôtel Farah Aljanoub",
+  "totalScore": 3.5,
+  "reviewsCount": 265,
+  "street": "Av. Erraha, Zone Touristique P.O.Box: 45000",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-85106",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/03/c2/24/hotel-farah-al-janoub.jpg?w=1000&h=700&s=1"
+  ],
+  "location": {
+    "lat": 30.9247181,
+    "lng": -6.9080206
+  },
+  "price": 4845.27,
+  "rank": 21
+},
+{
+  "title": "Hôtel Marmar",
+  "totalScore": 4,
+  "reviewsCount": 439,
+  "street": "W3HG+86Q, Avenue le prince moulay abdellah, Alhizzam",
+  "city": "Ouarzazate",
+  "website": "http://www.hotel-marmar.com/",
+  "phone": "+212 5248-88887",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://cdn.worldota.net/t/1024x768/content/f3/e4/f3e4cbf985ff15d191422ea0117b9a67105540c5.jpeg"
+  ],
+  "location": {
+    "lat": 30.9283408,
+    "lng": -6.9244034
+  },
+  "price": 4002.49,
+  "rank": 21
+},
+{
+  "title": "Dar Kamar",
+  "totalScore": 4.7,
+  "reviewsCount": 142,
+  "street": "W492+PC3",
+  "city": "Ouarzazate",
+  "website": "http://www.darkamar.com/",
+  "phone": "+212 5248-88733",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/a1/03/34/la-terraza.jpg?w=1900&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9192603,
+    "lng": -6.8989403
+  },
+  "price": 1603.28,
+  "rank": 22
+},
+{
+  "title": "Kart Aventure",
+  "totalScore": 4.8,
+  "reviewsCount": 59,
+  "street": "Zone Hotelière, Av. Moulay Rachid",
+  "city": "Ouarzazate",
+  "website": "http://www.kartaventure.com/",
+  "phone": "+212 667-344623",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOpQtatD19GEj3WjkLpYoxHTyLRclJfEeeNBGzU=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9218265,
+    "lng": -6.9075825
+  },
+  "price": 3407.23,
+  "rank": 36
+},
+{
+  "title": "desert stars tours",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "N°7 place el-mouhadin",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 667-847773",
+  "categoryName": "Tour agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNkUrXuQtglDEGRw9uPNDd8ty-bMxOT2PvPwC0W=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9215784,
+    "lng": -6.9132074
+  },
+  "price": 3875.6,
+  "rank": 35
+},
+{
+  "title": "Travels Morocco",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": null,
+  "city": "Ouarzazate",
+  "website": "http://travelsmorocco.com/",
+  "phone": "+212 662-385095",
+  "categoryName": "Travel agency",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9222114,
+    "lng": -6.9139529
+  },
+  "price": 3470.96,
+  "rank": 34
+},
+{
+  "title": "Afoulki Café Restaurant",
+  "totalScore": 4.3,
+  "reviewsCount": 361,
+  "street": "356 Av. Al Maghrib Al Arabi, Av. Al-Maghreb Al-Arabi",
+  "city": "Ouarzazate",
+  "website": "http://www.facebook.com/afoulki.ozte",
+  "phone": "+212 5248-90019",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPGM1nJDxZz3SV2sPpNp3ee1MoUSbWLBOE7Lt7o=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9272594,
+    "lng": -6.9036011
+  },
+  "price": 1001,
+  "rank": 33
+},
+{
+  "title": "4X4 DES AMIS (Circuits, Excursions et Transferts)",
+  "totalScore": 5,
+  "reviewsCount": 13,
+  "street": "N° 62 Rue Taza",
+  "city": "Ouarzazate",
+  "website": "https://www.4x4-desamis.com/",
+  "phone": "+212 672-731203",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNz39JhQMPmGykG6GWDy_0cjC-h3cWq3iVbghBx=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9247948,
+    "lng": -6.9137569
+  },
+  "price": 650.694,
+  "rank": 32
+},
+{
+  "title": "Fabulous Morocco Tours",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "N, Street, across from Berber Palace Hotel, 6 Rue Al-Mansour Ad-Dahbi",
+  "city": "Ouarzazate",
+  "website": "http://fabulousmoroccotours.com/",
+  "phone": null,
+  "categoryName": "Tour agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOqAR_mGJkKO99Sw3umVWFTA4tZVQymyHLvoKtn=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9230106,
+    "lng": -6.910233
+  },
+  "price": 2105.12,
+  "rank": 29
+},
+{
+  "title": "Maroc Experience",
+  "totalScore": 5,
+  "reviewsCount": 3,
+  "street": "N° 4 Bab Essahra place Elmouahidine",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-83363",
+  "categoryName": "Travel agency",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.921446,
+    "lng": -6.913179
+  },
+  "price": 3681.34,
+  "rank": 30
+},
+{
+  "title": "Desert Dream",
+  "totalScore": 4.8,
+  "reviewsCount": 103,
+  "street": "DESERT DREAM, N° 4 Rue Al-Mansour Ad-Dahbi",
+  "city": "Ouarzazate",
+  "website": "http://www.sahara-desert-dream.com/",
+  "phone": "+212 668-961796",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNtAhptEKLzCVkF51mjizyT3AXNGBa25b6xJDIG=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9223977,
+    "lng": -6.9096912
+  },
+  "price": 2998.47,
+  "rank": 31
+},
+{
+  "title": "LOCATION DE VOITURE OUARZAZATE مكتب تأجير السيارات ورزازات",
+  "totalScore": 4.9,
+  "reviewsCount": 53,
+  "street": "à 100 m de Hotel Berbere Palace, N425 lot LACG avenue, Rue Al-Mansour Ad-Dahbi",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 661-515270",
+  "categoryName": "Car rental agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNXwiPkAiS15xUHnrgpfWif4aICIlZztgYT8xCa=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.922494,
+    "lng": -6.909133
+  },
+  "price": 869.541,
+  "rank": 28
+},
+{
+  "title": "Desert Majesty",
+  "totalScore": 4.9,
+  "reviewsCount": 143,
+  "street": "Place Al-Mouahidine, Rue Al-Mouahidine",
+  "city": "Ouarzazate",
+  "website": "http://www.desertmajesty.com/",
+  "phone": "+212 671-660494",
+  "categoryName": "Tour operator",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNtZVW4sTk2Hjuhb161wzEYLjM4RVQaUUPIBfoz=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.921759,
+    "lng": -6.9138322
+  },
+  "price": 4296.19,
+  "rank": 27
+},
+{
+  "title": "Marrocos.com - Agência de Viagens",
+  "totalScore": 4.7,
+  "reviewsCount": 56,
+  "street": "nº 144, CGI, Rua, Rue Al Ansar",
+  "city": "Ouarzazate",
+  "website": "https://www.marrocos.com/",
+  "phone": "+212 622-105822",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOFNgDz2w8BDhNzi9aUKXPK53LjMZJQXL-en8d2=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9232595,
+    "lng": -6.9081637
+  },
+  "price": 3361.19,
+  "rank": 26
+},
+{
+  "title": "Institute Technology Hotel",
+  "totalScore": 4,
+  "reviewsCount": 2,
+  "street": "W3CR+P36, Av. Prince Moulay Rachid",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 672-098334",
+  "categoryName": "College",
+  "imageUrls": [],
+  "location": {
+    "lat": 30.9217933,
+    "lng": -6.9098452
+  },
+  "price": 2772.65,
+  "rank": 25
+},
+{
+  "title": "Ouarzazate Unlimited - Desert Tours & Day Trips",
+  "totalScore": 5,
+  "reviewsCount": 4,
+  "street": "Place 3 Mars",
+  "city": "Ouarzazate",
+  "website": "http://www.ouarzazate-unlimited.com/",
+  "phone": "+212 661-439777",
+  "categoryName": "Tour operator",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOzR2D4VTaXW95IC2yxCzqLiQsfFDxzd_LWZKhY=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9221708,
+    "lng": -6.9240769
+  },
+  "price": 770.596,
+  "rank": 32
+},
+{
+  "title": "Supratours Ouarzazate",
+  "totalScore": 3.8,
+  "reviewsCount": 264,
+  "street": "au quartier artisanal, Lot : N¨ 32",
+  "city": "Ouarzazate",
+  "website": "http://oncf.ma/",
+  "phone": "+212 5248-90796",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPkGRT8hTQRCTaz-kfjpt-jrHyX8LTS4apcWzmb=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9247904,
+    "lng": -6.9278586
+  },
+  "price": 1555.77,
+  "rank": 29
+},
+{
+  "title": "Ouarzazate Private Tour Guide - Morocco Desert Tour & Ouarzazate Day Trips",
+  "totalScore": 5,
+  "reviewsCount": 28,
+  "street": "Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 662-781427",
+  "categoryName": "Tourist attraction",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMmgDmzslyCb88agbwqrIVDzPihlfAHpP6_jNaR=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.922372,
+    "lng": -6.9262351
+  },
+  "price": 2780.9,
+  "rank": 28
+},
+{
+  "title": "Hotel Albaraka",
+  "totalScore": 3.6,
+  "reviewsCount": 55,
+  "street": "W3GC+7RW",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 670-468667",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO0NqVCEgP_IzBC0WrYtWiy9jOcCvWKYbiOHFdY=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9257321,
+    "lng": -6.927937
+  },
+  "price": 156.169,
+  "rank": 26
+},
+{
+  "title": "Ksour Voyages LLC",
+  "totalScore": 4.5,
+  "reviewsCount": 15,
+  "street": "11 place 3 mars",
+  "city": "Ouarzazate",
+  "website": "http://ksour-voyages.com/",
+  "phone": "+212 668-143156",
+  "categoryName": "Tour agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOYYTewTMH9JOqCbq7n4jpPSOuRuv2CcwtP9syp=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9226034,
+    "lng": -6.925291
+  },
+  "price": 966.132,
+  "rank": 27
+},
+{
+  "title": "Hôtel la Gazelle",
+  "totalScore": 3.8,
+  "reviewsCount": 123,
+  "street": "W3FF+892, Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 5248-82151",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ac/86/e1/hotel-la-gazelle.jpg?w=1900&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9232741,
+    "lng": -6.9265979
+  },
+  "price": 1382.02,
+  "rank": 23
+},
+{
+  "title": "AVIS - Ouarzazate",
+  "totalScore": 4.9,
+  "reviewsCount": 143,
+  "street": "Angle Bld Mohammed V, Place du 3 mars",
+  "city": "Ouarzazate",
+  "website": "https://www.avis.ma/location-voiture-maroc/agences-centre-ville/location-voiture-ouarzazate",
+  "phone": "+212 5226-88970",
+  "categoryName": "Car rental agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPn9R0SRP7rUhYdWTFAowLgM9XBDUBB2vv69m1B=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9217305,
+    "lng": -6.9238154
+  },
+  "price": 3448.75,
+  "rank": 30
+},
+{
+  "title": "TOURS 4X4 MOROCCO",
+  "totalScore": 5,
+  "reviewsCount": 12,
+  "street": "N، 189 Rue almaghreb alaarabi",
+  "city": "Ouarzazate",
+  "website": "https://www.tours-4x4-morocco.com/",
+  "phone": "+212 666-813197",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMiW-Szu4HR6jDPImhzSl7u6lzOtmqZBnkhmzMI=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9222016,
+    "lng": -6.9194369
+  },
+  "price": 2213.31,
+  "rank": 29
+},
+{
+  "title": "The Old Synagogue בית כנסת",
+  "totalScore": 4.9,
+  "reviewsCount": 482,
+  "street": "6.897830, W492+MV Ouarzazate 30.919229",
+  "city": "Ouarzazate",
+  "website": "https://www.facebook.com/pg/The-old-Synagogue-840460632955657/posts/?ref=page_internal",
+  "phone": "+212 601-437006",
+  "categoryName": "Synagogue",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOQxqfMQMZYFLELs5EAKeAnK0viLGyjGECJ4ODH=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9192261,
+    "lng": -6.8978048
+  },
+  "price": 615.394,
+  "rank": 31
+},
+{
+  "title": "Kasbah des Amazighs",
+  "totalScore": 1.6,
+  "reviewsCount": 25,
+  "street": "W39X+9XJ",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Rug store",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPTS39MWlOnVrfAmjIEWPkJTF5RDbK_fpUhHtuF=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9184667,
+    "lng": -6.9001051
+  },
+  "price": 3477.67,
+  "rank": 32
+},
+{
+  "title": "Restaurant",
+  "totalScore": 1.3,
+  "reviewsCount": 67,
+  "street": "Bd Mohamed V , Hay Taourirt",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP9ki3VpTBO-Da2v1abHkTzdakQWIxiZadkKaf_=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9207609,
+    "lng": -6.8999901
+  },
+  "price": 1482.84,
+  "rank": 34
+},
+{
+  "title": "Cinema Museum",
+  "totalScore": 4,
+  "reviewsCount": 1078,
+  "street": "W4C2+C7F, Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": "Museum",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPEpWQ71krgbVP_Wqfglfbkp0IsA5jt77pGIgO0=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9210508,
+    "lng": -6.89934
+  },
+  "price": 3021.55,
+  "rank": 30
+},
+{
+  "title": "Morocco Nomad Safari",
+  "totalScore": 5,
+  "reviewsCount": 10,
+  "street": null,
+  "city": "Ouarzazate",
+  "website": "http://www.morocco-nomad-safari.com/",
+  "phone": "+212 661-873469",
+  "categoryName": "Travel agency",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN2IVaA9_TlEFtjQiN86rXCdifmkaNKJyldyuV5=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9201327,
+    "lng": -6.9003574
+  },
+  "price": 4387.41,
+  "rank": 29
+},
+{
+  "title": "Kasbah Taourirt",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": null,
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": null,
+  "categoryName": null,
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICJmMblMw=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9195465,
+    "lng": -6.8984436
+  },
+  "price": 131.182,
+  "rank": 28
+},
+{
+  "title": "Taourirt Kasbah",
+  "totalScore": 4.3,
+  "reviewsCount": 4657,
+  "street": "W492+RJF, Av. Mohammed V",
+  "city": "Ouarzazate",
+  "website": null,
+  "phone": "+212 675-046730",
+  "categoryName": "Historical landmark",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO6D1Bl0nzEV-aAxvNzxIVYU9JDHaAbl2_-voV-=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 30.9201853,
+    "lng": -6.8992981
+  },
+  "price": 4158.64,
+  "rank": 27
+},
+{
+  "title": "Oscar Hotel by Atlas Studios",
+  "totalScore": 4,
+  "reviewsCount": 466,
+  "street": "Km 5, BP 28 Route de Marrakech",
+  "city": "Ouarzazate",
+  "website": "http://www.oscarhotelbyatlasstudios.com/",
+  "phone": "+212 5248-82223",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e5/4d/f4/oscar-hotel.jpg?w=2100&h=1400&s=1"
+  ],
+  "location": {
+    "lat": 30.9412793,
+    "lng": -6.9675425
+  },
+  "price": 574.398,
+  "rank": 5
+}]

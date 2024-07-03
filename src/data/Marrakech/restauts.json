@@ -1,0 +1,504 @@
+[{
+    "title": "مقهى و مطعم mon plat",
+    "totalScore": 4.2,
+    "reviewsCount": 22,
+    "street": "مراكش المسيرة 1 حرف ب 683",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 5291-51492",
+    "categoryName": "Coffee shop",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipNlSAU1Mk6kmSzqaig72wxKFLfKfLlWyiF6tVon=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6301632,
+      "lng": -8.0623041
+    },
+    "price": 3426.18,
+    "rank": 19
+  },
+  {
+    "title": "Snack fast food rayhana",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "street": "JW9R+M8X",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 656-171674",
+    "categoryName": "Pizza restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipMI-iO2-erEelUWOFkHSpBVXbMZhj76XrzlLu6M=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6192325,
+      "lng": -8.0591516
+    },
+    "price": 913.558,
+    "rank": 63
+  },
+  {
+    "title": "Azmam food",
+    "totalScore": 5,
+    "reviewsCount": 12,
+    "street": "Avenue alforat hammam",
+    "city": "bentachefin",
+    "website": null,
+    "phone": "+212 666-373493",
+    "categoryName": "Sandwich shop",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipOEqGHB62d6vjDaJ92ejgIBRg7109uoTELRbID6=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6214826,
+      "lng": -8.0487421
+    },
+    "price": 1479.14,
+    "rank": 62
+  },
+  {
+    "title": "Café Av ELGOLF",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "street": "AV EL GOLF N180",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Coffee shop",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipMPxXEQe4g0vY79BSs8MBEU910lHXIs6zol1BXU=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6206094,
+      "lng": -7.9715116
+    },
+    "price": 1821.28,
+    "rank": 46
+  },
+  {
+    "title": "DARY FOOD",
+    "totalScore": 3.9,
+    "reviewsCount": 22,
+    "street": "JXC2+R59",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 708-054444",
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipMxfmjcbB5vtiojwtFMFnGj6KVOYdEYGwxeto_K=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6220258,
+      "lng": -8.0495161
+    },
+    "price": 4809.31,
+    "rank": 61
+  },
+  {
+    "title": "Samak Mak",
+    "totalScore": 4.4,
+    "reviewsCount": 12,
+    "street": "Rue Al Andalib,imm 279",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 663-733663",
+    "categoryName": "Seafood restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipP7yhSoW8p_a38_cxKzP77Jt7WyzngQyJiSmLyU=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6328883,
+      "lng": -8.054018
+    },
+    "price": 4842.87,
+    "rank": 18
+  },
+  {
+    "title": "أسماك و مأكولات المحيط",
+    "totalScore": 4.3,
+    "reviewsCount": 3,
+    "street": "E47",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Seafood restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipOTzCXUIvclo-TGTOGxqPCvB0e7dV2S2Bwc4DsC=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6326255,
+      "lng": -8.067348
+    },
+    "price": 2701.01,
+    "rank": 12
+  },
+  {
+    "title": "سناك العائلة",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "المنارة، مراكش شارع النخيل رقم 709 عمارة 52 لمحاميد",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 670-419259",
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipMxCvIl5LfPCpj9mnzCum2wR6qtg_zVQAHTVoyI=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6360026,
+      "lng": -8.0574299
+    },
+    "price": 3751.86,
+    "rank": 13
+  },
+  {
+    "title": "Pipo et ghoni kefta et grillades",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "JWJQ+G8V",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Barbecue restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipM6AL_6eC8N46hHWZVcj0XM2yd6wa4l9zULxYZw=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6313296,
+      "lng": -8.0616524
+    },
+    "price": 3767.22,
+    "rank": 15
+  },
+  {
+    "title": "Doq Broast",
+    "totalScore": 3.9,
+    "reviewsCount": 23,
+    "street": null,
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Chicken restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipOVDcy5x165K2E7fu1ppxRPuAiE7tq7mnKlZDHI=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6335524,
+      "lng": -8.0676886
+    },
+    "price": 446.619,
+    "rank": 17
+  },
+  {
+    "title": "Chick Brothers",
+    "totalScore": 4.7,
+    "reviewsCount": 73,
+    "street": "422 Massira 1 A",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 631-454418",
+    "categoryName": "Chicken restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipPsuDOd3dBCUiiq29TE6NsmbF7hMCBehxjaqOpZ=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6302716,
+      "lng": -8.0544718
+    },
+    "price": 4568.6,
+    "rank": 16
+  },
+  {
+    "title": "مول شاورما",
+    "totalScore": 4.1,
+    "reviewsCount": 36,
+    "street": "JWJR+G3H",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 672-044011",
+    "categoryName": "Fast food restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipNay9ZUYFI41eE2ArKWs6a0_6lDLB-Mwj-WSzm1=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6313056,
+      "lng": -8.0597691
+    },
+    "price": 1456.48,
+    "rank": 10
+  },
+  {
+    "title": "مول مليح كفتة الحوت بالسمن",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "operation fracha, magasin 1 im",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 617-172306",
+    "categoryName": "Family restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipP6oAtaUyJobjxuF1Z-qBqxaVtH22qjA8olYwgP=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6423729,
+      "lng": -8.064995
+    },
+    "price": 937.582,
+    "rank": 9
+  },
+  {
+    "title": "Sobelver",
+    "totalScore": 4.8,
+    "reviewsCount": 40,
+    "street": "N° 7/6 lotissement, Av. Ibn Tachfine",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 678-887781",
+    "categoryName": "Aluminum window",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipMcV1fN4QSfYz-b0V7IMbrPHu8iRdyaOtKc_JMT=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.621197,
+      "lng": -8.051837
+    },
+    "price": 4237.49,
+    "rank": 60
+  },
+  {
+    "title": "Grills Baba Ali",
+    "totalScore": 4.8,
+    "reviewsCount": 41,
+    "street": "Massira 3 599 B",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 704-885725",
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipO_Tqy7i9Qr92O8A49etpjGEAwJWk_vm0gQx7yo=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6438065,
+      "lng": -8.0632732
+    },
+    "price": 4764.48,
+    "rank": 7
+  },
+  {
+    "title": "Khbiza ya salaam",
+    "totalScore": 5,
+    "reviewsCount": 2,
+    "street": "JWMR+RJ9",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Breakfast restaurant",
+    "imageUrls": [],
+    "location": {
+      "lat": 31.6345477,
+      "lng": -8.0583895
+    },
+    "price": 2513.66,
+    "rank": 6
+  },
+  {
+    "title": "Top Matériel Cuisine",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "street": "N49",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 668-016132",
+    "categoryName": "Store",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipOR8YZ0gx6-WAVhy5lX9TNc_w151c655cTaMz6u=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6195872,
+      "lng": -8.0514987
+    },
+    "price": 1281.31,
+    "rank": 59
+  },
+  {
+    "title": "Fast & Fabulous",
+    "totalScore": 4.3,
+    "reviewsCount": 52,
+    "street": "à coté AttijariWafa Bank, Immeuble, Av. Ibn Tachfine",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 666-832687",
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipPUCSWkzjfDLiIaKTmrZtJ9EkfvQ09PbzCJlrxE=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6220428,
+      "lng": -8.0490589
+    },
+    "price": 2868.42,
+    "rank": 58
+  },
+  {
+    "title": "Société Couscous Tensift (Socoten S.A.)",
+    "totalScore": 3.6,
+    "reviewsCount": 7,
+    "street": "Quartier Industriel Azli , Lot. 18",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 5243-45645",
+    "categoryName": "Restaurant",
+    "imageUrls": [],
+    "location": {
+      "lat": 31.620526,
+      "lng": -8.057657
+    },
+    "price": 1665.14,
+    "rank": 57
+  },
+  {
+    "title": "سناك المسيرة",
+    "totalScore": 3.9,
+    "reviewsCount": 36,
+    "street": "Port Hurbain Massira 1 Nr. 45",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 5292-97124",
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipN08857Wiwf0UyfYXRLQ4jUQknPjoZlK9k5WVav=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.62834,
+      "lng": -8.0614492
+    },
+    "price": 3421.88,
+    "rank": 3
+  },
+  {
+    "title": "Snack Ourika (Poissonnerie)",
+    "totalScore": 3,
+    "reviewsCount": 1,
+    "street": "JWFR+5F2, Av. Laâyoune",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipNTNDIAsKswuBDAq0vQ9m2IX3bqO8i31bNO60Fw=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6228934,
+      "lng": -8.0588704
+    },
+    "price": 732.447,
+    "rank": 56
+  },
+  {
+    "title": "Deserto Ben Buhh",
+    "totalScore": 4,
+    "reviewsCount": 1,
+    "street": "Province de Al Haouz Hay ben tachfine n70",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipNsimAaON6X9cd4O5OQ6iqUxgyb1HeI2O5Ve8wA=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6210276,
+      "lng": -8.0508957
+    },
+    "price": 4779.38,
+    "rank": 53
+  },
+  {
+    "title": "Snack ABDO",
+    "totalScore": 3.3,
+    "reviewsCount": 4,
+    "street": "JXH4+5X3",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Snack bar",
+    "imageUrls": [],
+    "location": {
+      "lat": 31.6278776,
+      "lng": -8.0425872
+    },
+    "price": 3766.13,
+    "rank": 51
+  },
+  {
+    "title": "صناك البيضاوي",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "street": "JWGQ+73G",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Fast food restaurant",
+    "imageUrls": [],
+    "location": {
+      "lat": 31.6259464,
+      "lng": -8.0624973
+    },
+    "price": 2704.56,
+    "rank": 46
+  },
+  {
+    "title": "Sami food",
+    "totalScore": 2,
+    "reviewsCount": 1,
+    "street": "40 000",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 615-141545",
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipOly6dVCPUCXhE2Fafk3Haijx_QQwHMoVaxWkIQ=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6188155,
+      "lng": -8.0619777
+    },
+    "price": 1002.44,
+    "rank": 50
+  },
+  {
+    "title": "Le Petit Maure",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "street": "JW9R+F77",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": null,
+    "categoryName": "Restaurant",
+    "imageUrls": [],
+    "location": {
+      "lat": 31.6186603,
+      "lng": -8.0593213
+    },
+    "price": 5033.85,
+    "rank": 41
+  },
+  {
+    "title": "Burger Chickenfan",
+    "totalScore": null,
+    "reviewsCount": 0,
+    "street": "JXG5+Q2R",
+    "city": "Marrakesh",
+    "website": null,
+    "phone": "+212 638-692625",
+    "categoryName": "Restaurant",
+    "imageUrls": [
+      "https://lh5.googleusercontent.com/p/AF1QipNHnvWyICmaLG7wwqUHOvpxFnc4nFpvpNjpfP29=w1920-h1080-k-no"
+    ],
+    "location": {
+      "lat": 31.6269794,
+      "lng": -8.0424808
+    },
+    "price": 2703.38,
+    "rank": 44
+  }
+] 
