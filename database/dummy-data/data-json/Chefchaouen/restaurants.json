@@ -1,0 +1,1037 @@
+[{
+  "title": "La Estrel",
+  "totalScore": 3.7,
+  "reviewsCount": 45,
+  "street": "Place Outa lhamam",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 663-893242",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipP9SsR2QcEfMLN_ejIBlTli2u5x9JuQAxPOKijf=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1685396,
+    "lng": -5.2627735
+  },
+  "price": null,
+  "rank": 20
+},
+{
+  "title": "Oudia restaurant",
+  "totalScore": 5,
+  "reviewsCount": 30,
+  "street": "5P8M+VMF, Av. Zerktouni",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMb_IG__56w2yvTY5A8fW4yGjlf_MYagZEhIN_m=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1671876,
+    "lng": -5.2658424
+  },
+  "price": null,
+  "rank": 19
+},
+{
+  "title": "مطعم وسناك الأخوين",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "مولاي عبد الرحمن الشريف",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Family restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipM9P_F2tluBcDa1dLtQ74ys0ydSC34oG9rfpGGl=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.168796,
+    "lng": -5.2683641
+  },
+  "price": null,
+  "rank": 18
+},
+{
+  "title": "Restaurante palacio al Andalus",
+  "totalScore": 5,
+  "reviewsCount": 33,
+  "street": "5P9Q+P7M",
+  "city": "Chefchaouen",
+  "website": "https://www.instagram.com/palacioalandalus?igsh=ZnQyeG9kcnA5OWJ2",
+  "phone": "+212 678-604849",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNfp7rfqDQMzbs7E8VUXuAPPoo68E8CJHyLZ_n5=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1693046,
+    "lng": -5.261854
+  },
+  "price": null,
+  "rank": 17
+},
+{
+  "title": "Restaurant Cafe Zambra",
+  "totalScore": 5,
+  "reviewsCount": 62,
+  "street": "Soulaiman El Haouat, Av Fahfouh 13",
+  "city": "Chefchaouen",
+  "website": "https://cafezambra.com/",
+  "phone": "+34 683 13 53 13",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOkd1_mBryVAiNNsxrTq5JOHZzrJ9co9OWEJVto=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1703694,
+    "lng": -5.2621182
+  },
+  "price": null,
+  "rank": 16
+},
+{
+  "title": "ساحة الوطاء",
+  "totalScore": 4.2,
+  "reviewsCount": 18,
+  "street": "5P9P+HPJ",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOtbk6BIT0qMZKLJuj1dSQUxqjKECtH3qTlWEnO=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1688406,
+    "lng": -5.2632483
+  },
+  "price": null,
+  "rank": 15
+},
+{
+  "title": "MiradorChaouen",
+  "totalScore": null,
+  "reviewsCount": 0,
+  "street": "5P3J+3V3",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [],
+  "location": {
+    "lat": 35.1518116,
+    "lng": -5.2676348
+  },
+  "price": null,
+  "rank": 13
+},
+{
+  "title": "Restaurant Jbaria",
+  "totalScore": 4.9,
+  "reviewsCount": 136,
+  "street": "Rue Assaida Alhorra",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 664-316007",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMss_nFleGvmFvLcL16xUA7FIywsubTnaUdIUNe=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1681154,
+    "lng": -5.2642032
+  },
+  "price": null,
+  "rank": 12
+},
+{
+  "title": "Snack Dody's",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "5PCG+P4W",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [],
+  "location": {
+    "lat": 35.1720565,
+    "lng": -5.2745707
+  },
+  "price": null,
+  "rank": 11
+},
+{
+  "title": "مطعم بودياب",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "مولاي عبد الرحمان الشريف",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNyk0kQWl6yyao-F9myJ7_JF4aXcC-I4BnlPQ7n=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.167238,
+    "lng": -5.2658219
+  },
+  "price": null,
+  "rank": 9
+},
+{
+  "title": "Traditional kitchen",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "5PCQ+297",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5399-87784",
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOvhzF8uEoAmcwMZZSXm772FHNqWxlsD7rMlJD0=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1700386,
+    "lng": -5.2615743
+  },
+  "price": null,
+  "rank": 8
+},
+{
+  "title": "Baissara Ansara",
+  "totalScore": 4.9,
+  "reviewsCount": 34,
+  "street": "5PCR+3JV، Al hassan 1 - Onsar",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMjfN-p7X_rnfsI_cj6yNWOWAnwWCbmUj-UciSh=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1702836,
+    "lng": -5.25831
+  },
+  "price": null,
+  "rank": 7
+},
+{
+  "title": "Sofia",
+  "totalScore": 4.5,
+  "reviewsCount": 956,
+  "street": null,
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 671-286649",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNmMDSvSj0bPszPnZiaZCYTKdGeRGqvEthoROok=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.169178,
+    "lng": -5.2611976
+  },
+  "price": "$",
+  "rank": 20
+},
+{
+  "title": "Restaurant Hayoun",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "5P8M+QRW",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPkVrpq7t4m_4jFJjoh5MwhT7X_stgQT8TxQ1Fy=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.166998,
+    "lng": -5.2654276
+  },
+  "price": null,
+  "rank": 5
+},
+{
+  "title": "Snak& restaurant besmillah",
+  "totalScore": 4,
+  "reviewsCount": 33,
+  "street": null,
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPTCVxGaQ0UVuJvQzUwzBxbS4TPKbKeaf1vuzAR=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1692716,
+    "lng": -5.2702769
+  },
+  "price": null,
+  "rank": 3
+},
+{
+  "title": "Restaurant Bab Kasaba",
+  "totalScore": 4.7,
+  "reviewsCount": 150,
+  "street": null,
+  "city": "Chefchaouen",
+  "website": "https://www.instagram.com/restaurant_bab_kasaba?igsh=MWg0aWx0ZGlzcnY0Nw==",
+  "phone": "+212 654-868325",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPFBWB49deCWeyf-SiE4AQoucjoT9HlQH4njzMD=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1689705,
+    "lng": -5.2622765
+  },
+  "price": null,
+  "rank": 19
+},
+{
+  "title": "مطعم الزهور",
+  "totalScore": 4.6,
+  "reviewsCount": 10,
+  "street": "5P8M+JV8، شارع علال ابن عبدالله",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 672-116002",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOgFcYN8BH0AvxTIK7WNVZ7lqAjhGBelRuX74CZ=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1665405,
+    "lng": -5.2652963
+  },
+  "price": null,
+  "rank": 2
+},
+{
+  "title": "BILMOS",
+  "totalScore": 4.4,
+  "reviewsCount": 519,
+  "street": "place outa el hammam",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 633-677253",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipM83ukiwqwPgaBCNvqR_Kk7TzAf4EEQ07DPbFGu=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1686641,
+    "lng": -5.2626022
+  },
+  "price": null,
+  "rank": 18
+},
+{
+  "title": "Berben Community-leader Restaurants & Market",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "5P9Q+PG4 Zanka al Khadarin",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Family restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMrgLYUDL2fqd2Iwme-1E6M0gOI3cj1zuhAh8BL=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1692657,
+    "lng": -5.2611824
+  },
+  "price": null,
+  "rank": 17
+},
+{
+  "title": "Restaurant Al Wiam",
+  "totalScore": 4.6,
+  "reviewsCount": 332,
+  "street": "Rue Sidi al Buhali, Escaliers vers la Place Outa el Hamman, Ancienne",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 624-651343",
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNjpX4qSsQdw8FjtQqdsgXPMikpQdBvwFicrnU0=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1686816,
+    "lng": -5.2633836
+  },
+  "price": null,
+  "rank": 16
+},
+{
+  "title": "Restaurant blue dream",
+  "totalScore": 4.5,
+  "reviewsCount": 55,
+  "street": "5PCQ+3JM",
+  "city": "Chefchaouen",
+  "website": "https://www.instagram.com/restaurant_blue_dream?igsh=amcxYXc2OWF1Y2ox&utm_source=qr",
+  "phone": "+212 605-614507",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPg2RlAtPqKwwaqzXMqOPSGps_W5xbNiUs93qoV=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1701773,
+    "lng": -5.260999
+  },
+  "price": null,
+  "rank": 15
+},
+{
+  "title": "Café And Snack in front of station",
+  "totalScore": 4.6,
+  "reviewsCount": 9,
+  "street": "5P9F+5WX Gare Routière",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMUqcnMhb2LE1RpgcFD3NabbS-9U3XPedM8ZogR=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1679869,
+    "lng": -5.275147
+  },
+  "price": null,
+  "rank": 12
+},
+{
+  "title": "Restaurant Terrasse Djebli",
+  "totalScore": 4.1,
+  "reviewsCount": 296,
+  "street": "PLACE OUTA HAMAM 90100،",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipObDr-H6LqXnos-1GQAsmADgoKZAiQ3ERi1GggA=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1690715,
+    "lng": -5.2621679
+  },
+  "price": null,
+  "rank": 14
+},
+{
+  "title": "Galitos",
+  "totalScore": 4.6,
+  "reviewsCount": 416,
+  "street": "Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": "https://instagram.com/restaurantgalitos?igshid=NzAzN2Q1NTE=",
+  "phone": "+212 626-515562",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPnFLEYl5AXN6MZzDo1ck3xxsNe0G2M3bdt8YdO=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1672733,
+    "lng": -5.2623279
+  },
+  "price": null,
+  "rank": 13
+},
+{
+  "title": "Restaurante Al Nour",
+  "totalScore": 3.8,
+  "reviewsCount": 11,
+  "street": "5P7P+QXP, Av. Maghreb arabe",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 655-971065",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMArcUgRiE4Wx4hSnYwClQVVEv1BMrJJXRS813p=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1644697,
+    "lng": -5.2625529
+  },
+  "price": null,
+  "rank": 11
+},
+{
+  "title": "HERMANOS",
+  "totalScore": 4.6,
+  "reviewsCount": 150,
+  "street": null,
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 645-864652",
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPWoQuxR2QuS5nLWAna3Ngd4MxQAO39gV-SyZCD=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.16862,
+    "lng": -5.2627284
+  },
+  "price": null,
+  "rank": 10
+},
+{
+  "title": "Restaurant Bab Ssour",
+  "totalScore": 4.5,
+  "reviewsCount": 1051,
+  "street": "No 31 Rue Benjelloun",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 660-261128",
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPuQz-mnlwvp5Kea-2n2HxE8uuYPtABxvtuAIS-=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1672507,
+    "lng": -5.2634293
+  },
+  "price": "$",
+  "rank": 9
+},
+{
+  "title": "Restaurant Azohour",
+  "totalScore": 4.5,
+  "reviewsCount": 2,
+  "street": "5P8P+J2H, Ave Allal Ben Abdellah",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Barbecue restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOfVdEdZulAPX02i2N9lR3c1lbYYh4DJFduy7k2=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1665441,
+    "lng": -5.2648434
+  },
+  "price": null,
+  "rank": 8
+},
+{
+  "title": "Hôtel restaurant La fuente",
+  "totalScore": 4.9,
+  "reviewsCount": 19,
+  "street": "15 Rue Bin Souaki",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 772-535226",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPYnfWgl2_aCRI5CdoxEuZE8H1LmNCS4LgNvVdK=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1694563,
+    "lng": -5.2618016
+  },
+  "price": null,
+  "rank": 7
+},
+{
+  "title": "Café & restaurant Meftah",
+  "totalScore": 4.2,
+  "reviewsCount": 68,
+  "street": "R412",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 661-683121",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMgsNMsz6ldLY7htuYd63Kl0sbjumWI4_YpmgaS=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1582713,
+    "lng": -5.2618333
+  },
+  "price": "$$",
+  "rank": 6
+},
+{
+  "title": "Restaurant El Bahja",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": "5P9M+27W, R412",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNLiuN4YGg5aXHC_uTIz55LF9jVWqo_AMfT2jp3=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1676211,
+    "lng": -5.2667954
+  },
+  "price": null,
+  "rank": 5
+},
+{
+  "title": "Restaurant Hajji",
+  "totalScore": 4.2,
+  "reviewsCount": 57,
+  "street": "4 Rue Sidi Hmed El Bouhali",
+  "city": "Chefchaouen",
+  "website": "https://restaurantguru.com/Restaurant-Hajii-Chefchaouen",
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipM4BnoVVVae0KEzh5deOwM9PcTB91PSznQozFcI=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1687041,
+    "lng": -5.2628347
+  },
+  "price": null,
+  "rank": 4
+},
+{
+  "title": "Restaurant Bar Chaouen",
+  "totalScore": 3.7,
+  "reviewsCount": 7,
+  "street": "Dhar Ben Ayyad",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5398-82488",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipN-CH1eUNS-HU6b0cvRT1RnRmJxEJOplcTmeviO=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1532702,
+    "lng": -5.2686863
+  },
+  "price": null,
+  "rank": 3
+},
+{
+  "title": "cafe and restaurant wassim",
+  "totalScore": 4.4,
+  "reviewsCount": 9,
+  "street": "Av. Maghreb arabe",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 655-884720",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPfkVQDXwW-Kgpqvs6URSp4At4IsZbzLSuUw0fu=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1681601,
+    "lng": -5.2755611
+  },
+  "price": null,
+  "rank": 2
+},
+{
+  "title": "RESTAURANT CASA ANDALUZ",
+  "totalScore": 3.9,
+  "reviewsCount": 94,
+  "street": "5PCQ+3JM",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5399-87182",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNWUUqVIptIp6jiGqJqm5smn7KyrAutownZtf4K=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1702034,
+    "lng": -5.2609538
+  },
+  "price": null,
+  "rank": 1
+},
+{
+  "title": "Bocatería Said",
+  "totalScore": 3.4,
+  "reviewsCount": 7,
+  "street": "5P9Q+6GR, Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Fast food restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMuJEmrtbA_Uh3I7N7JkKjqHoTbgmpujNH7CNNA=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1681203,
+    "lng": -5.2612438
+  },
+  "price": null,
+  "rank": 29
+},
+{
+  "title": "Mounir Food",
+  "totalScore": 3.3,
+  "reviewsCount": 113,
+  "street": "Place auta hammam",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5399-87584",
+  "categoryName": "Halal restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPKsSSCRnd-0g5GKzABYBoSwaaFa6jn8WK3rojf=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1664979,
+    "lng": -5.2615467
+  },
+  "price": null,
+  "rank": 28
+},
+{
+  "title": "Vancii Hotel",
+  "totalScore": 4.1,
+  "reviewsCount": 246,
+  "street": "35 Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": "https://vanciihotel.com/booking-now/",
+  "phone": "+212 5398-82813",
+  "categoryName": "Hotel",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO9B1pN9hI1jmJQqkBJ87kvD1UOKEgjx6ybw6v5=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.167843,
+    "lng": -5.261647
+  },
+  "price": "$77",
+  "rank": 27
+},
+{
+  "title": "مقهى مطعم الرحموني Cafè Restaurant Rahmouni",
+  "totalScore": 3.7,
+  "reviewsCount": 197,
+  "street": "5P8Q+W6W, Av. Hassan II",
+  "city": "الصبانين",
+  "website": null,
+  "phone": "+212 666-692613",
+  "categoryName": "Fine dining restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPfTMQqrp9KNLlBf6pU8JYSVIzoo9lYCaf5C7AE=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1673642,
+    "lng": -5.2619078
+  },
+  "price": "$$",
+  "rank": 26
+},
+{
+  "title": "مطعم يمي",
+  "totalScore": 4.1,
+  "reviewsCount": 41,
+  "street": "Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": "http://www.vanciihotel.com/",
+  "phone": "+212 5398-82813",
+  "categoryName": "Chinese restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPeZVH3dGXIkZUHBaULaMLHgqmFYlu-uvRdXf47=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1679466,
+    "lng": -5.2615515
+  },
+  "price": null,
+  "rank": 22
+},
+{
+  "title": "网红中餐 MR BIN CHINESE RESTAURANT",
+  "totalScore": 4.5,
+  "reviewsCount": 303,
+  "street": "Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5398-82349",
+  "categoryName": "Chinese restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNVrS3FN2N0-am6Q3lSsYHsCDyegLpYcToMh3t-=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1673111,
+    "lng": -5.2619837
+  },
+  "price": null,
+  "rank": 24
+},
+{
+  "title": "Mandala",
+  "totalScore": 4.1,
+  "reviewsCount": 788,
+  "street": "Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5398-82808",
+  "categoryName": "Pizza restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOxKL9l0UdJ2L9t-lk_n6asBb7rei7gz1HUyO_R=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1679143,
+    "lng": -5.2613665
+  },
+  "price": "$$",
+  "rank": 25
+},
+{
+  "title": "Chez Foad",
+  "totalScore": 4.7,
+  "reviewsCount": 172,
+  "street": "5P9Q+X87, Rue Ibn Asskar",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMTiSBeDQj5grKX2mhDnQiC_l_psyoLmK2CjJ6g=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1699073,
+    "lng": -5.2617067
+  },
+  "price": null,
+  "rank": 18
+},
+{
+  "title": "Ismael",
+  "totalScore": 5,
+  "reviewsCount": 12,
+  "street": "5P9P+HXM",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPi-YhhwZxNJbYwmmUailQ1pwAv2Mihtm98yLO7=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1689585,
+    "lng": -5.262567
+  },
+  "price": null,
+  "rank": 17
+},
+{
+  "title": "Café & Restaurant Nadir Samoudan",
+  "totalScore": 3.3,
+  "reviewsCount": 19,
+  "street": "5PCV+674",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Family restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPJsvPidVfJIyh9Px4PvQcnEUjNAVJLIsDMH8Qb=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.170576,
+    "lng": -5.2568497
+  },
+  "price": null,
+  "rank": 11
+},
+{
+  "title": "Restaurant Parador",
+  "totalScore": 4,
+  "reviewsCount": 3,
+  "street": "21 Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5399-86324",
+  "categoryName": "Restaurant",
+  "imageUrls": [],
+  "location": {
+    "lat": 35.1687527,
+    "lng": -5.2607978
+  },
+  "price": null,
+  "rank": 14
+},
+{
+  "title": "Restaurant Triana",
+  "totalScore": 3.9,
+  "reviewsCount": 792,
+  "street": "5P9Q+9RG, R. Aljanah Al Akhdar",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5399-89899",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMq05TRRNwe5fRyCb1uv0FcvyOoqMGAinwx1Yz5=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1681776,
+    "lng": -5.260296
+  },
+  "price": "$$",
+  "rank": 5
+},
+{
+  "title": "Restaurant Lalla Messaouda",
+  "totalScore": 4.2,
+  "reviewsCount": 482,
+  "street": "Avenue Hassan Awal",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5399-89570",
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipO00aY_dijIcdgRRumk8fen5lDmGaUg_5K6idi1=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1700022,
+    "lng": -5.2620927
+  },
+  "price": "$",
+  "rank": 18
+},
+{
+  "title": "Este",
+  "totalScore": 3,
+  "reviewsCount": 22,
+  "street": "Av. Hassan II",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 763-846812",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipODhRV4g5qiMangEeNxZFwCynaruruZCldJobYb=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1691463,
+    "lng": -5.2652908
+  },
+  "price": null,
+  "rank": 15
+},
+{
+  "title": "Twins Restaurant",
+  "totalScore": 4.4,
+  "reviewsCount": 561,
+  "street": "رقم 1، ساحة وطاء الحمام",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 5399-88708",
+  "categoryName": "Fine dining restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOAXqjVa9qEUiDDGHcQlh_Lul9kP5UkDJIfa8l6=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1690949,
+    "lng": -5.2618936
+  },
+  "price": null,
+  "rank": 14
+},
+{
+  "title": "Restaurant Zarbia",
+  "totalScore": 4.7,
+  "reviewsCount": 19,
+  "street": "5P9P+CW6, Place Outa lhamam",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipOepyKMC_34cHESrBw-jrErMC0jw9NoHtPbjAWf=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1685476,
+    "lng": -5.2627432
+  },
+  "price": null,
+  "rank": 10
+},
+{
+  "title": "Restaurant Green Space",
+  "totalScore": 4.5,
+  "reviewsCount": 22,
+  "street": "Place Outa El Hamam",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 634-665570",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipPoj2JGOy8Dma_LizoQ3pR9FcCtAgZEjN8Sg8qM=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1686508,
+    "lng": -5.2626375
+  },
+  "price": null,
+  "rank": 13
+},
+{
+  "title": "Snack Reda",
+  "totalScore": 4,
+  "reviewsCount": 4,
+  "street": "5PGG+QF8",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": null,
+  "categoryName": "Hamburger restaurant",
+  "imageUrls": [],
+  "location": {
+    "lat": 35.1771649,
+    "lng": -5.2736648
+  },
+  "price": null,
+  "rank": 9
+},
+{
+  "title": "Casa Arina",
+  "totalScore": 4,
+  "reviewsCount": 225,
+  "street": "Casa Arina",
+  "city": "Chefchaouen",
+  "website": null,
+  "phone": "+212 629-399946",
+  "categoryName": "Restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNo1kd0eBj6NzKiHLxNE_pPHOG3AI2cp_YFrC3I=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1681457,
+    "lng": -5.2690187
+  },
+  "price": null,
+  "rank": 12
+},
+{
+  "title": "Coffee Clock",
+  "totalScore": 4.5,
+  "reviewsCount": 1317,
+  "street": "3 Derb Tijani",
+  "city": "Chefchaouen",
+  "website": "http://www.cafeclock.com/",
+  "phone": "+212 5399-88788",
+  "categoryName": "Moroccan restaurant",
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipNEOUk5VuDI8nb5SixFXOhXLUSwni9PTQVQPFTy=w1920-h1080-k-no"
+  ],
+  "location": {
+    "lat": 35.1696184,
+    "lng": -5.263062
+  },
+  "price": "$$",
+  "rank": 19
+}]
